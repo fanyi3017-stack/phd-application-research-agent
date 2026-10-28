@@ -126,7 +126,7 @@
 
 ## 🙏 致谢
 
-- 感谢 OpenAI 提供的工具与技术。
+- 感谢 [OpenAI](https://github.com/openai) 和 [Google](https://github.com/google) 提供的 AI 工具与技术。
 - 感谢参与代码开发、文档完善、插件分享和问题排查的所有项目贡献者。
 - 感谢持续提供反馈、分享成果并支持项目发展的社区用户。
 - [护谜（上海）智能科技有限公司](https://github.com/curatingmysteryshanghai)：贡献 Codex 开发算力。

@@ -78,7 +78,7 @@ Se o código expirar, entre em contato pelo e-mail acima.
 
 ## 🙏 Agradecimentos
 
-Agradecemos à OpenAI por suas ferramentas e tecnologia, às pessoas que contribuem com código, documentação, plugins e solução de problemas e à comunidade pelo retorno. [护谜（上海）智能科技有限公司](https://github.com/curatingmysteryshanghai) forneceu capacidade computacional para o desenvolvimento com Codex.
+Agradecemos à [OpenAI](https://github.com/openai) e ao [Google](https://github.com/google) por suas ferramentas e tecnologias de IA, às pessoas que contribuem com código, documentação, plugins e solução de problemas e à comunidade pelo retorno. [护谜（上海）智能科技有限公司](https://github.com/curatingmysteryshanghai) forneceu capacidade computacional para o desenvolvimento com Codex.
 
 
 ## 📄 Licença

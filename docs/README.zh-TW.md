@@ -78,7 +78,7 @@
 
 ## 🙏 致謝
 
-感謝 OpenAI 的工具與技術，以及所有參與程式碼、文件、外掛、問題排查及提供回饋的貢獻者與社群使用者。[护谜（上海）智能科技有限公司](https://github.com/curatingmysteryshanghai)提供 Codex 開發算力。
+感謝 [OpenAI](https://github.com/openai) 和 [Google](https://github.com/google) 的 AI 工具與技術，以及所有參與程式碼、文件、外掛、問題排查及提供回饋的貢獻者與社群使用者。[护谜（上海）智能科技有限公司](https://github.com/curatingmysteryshanghai)提供 Codex 開發算力。
 
 
 ## 📄 授權
