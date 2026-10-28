@@ -59,7 +59,7 @@ Documentación oficial: [ChatGPT Work y Codex](https://help.openai.com/en/articl
 
 La tarea programada entrega el informe diario según el horario; activa las notificaciones push o por correo de ChatGPT si quieres recibir avisos. Incluso sin respuestas nuevas, el informe debe incluir avances y plazos. Sin automatización, puedes iniciarla manualmente.
 
-## ⚙️ Modelos y plataformas
+## ⚙ Modelos y plataformas
 
 Usa ChatGPT, Claude, Gemini, Kimi, DeepSeek u otra herramienta que admita prompts largos. Las funciones, límites y costes varían; sin automatización o envío de correo, esos pasos se realizan manualmente.
 

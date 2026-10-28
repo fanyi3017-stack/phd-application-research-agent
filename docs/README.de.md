@@ -59,7 +59,7 @@ Offizielle Hinweise: [ChatGPT Work und Codex](https://help.openai.com/en/article
 
 Die geplante Aufgabe liefert den Tagesbericht zum vereinbarten Zeitpunkt; aktivieren Sie bei Bedarf Push- oder E-Mail-Benachrichtigungen in ChatGPT. Auch ohne neue Antworten enthält der Bericht Fortschritt und Fristen. Ohne Automatisierung starten Sie die Arbeit manuell.
 
-## ⚙️ Modelle und Plattformen
+## ⚙ Modelle und Plattformen
 
 Nutze ChatGPT, Claude, Gemini, Kimi, DeepSeek oder ein anderes Tool für lange Prompts. Funktionen, Limits und Kosten unterscheiden sich; ohne Automatisierung oder E-Mail-Versand erfolgen diese Schritte manuell.
 

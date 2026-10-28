@@ -68,7 +68,7 @@ The complete prompt contains 30 stages, from onboarding through research, outrea
 
 A scheduled task runs and delivers its daily report on schedule; enable ChatGPT push or email notifications if you want alerts. The report should include progress and deadlines even when there are no new replies. Without automation, start it manually.
 
-## ⚙️ Model and platform setup
+## ⚙ Model and platform setup
 
 Use ChatGPT, Claude, Gemini, Kimi, DeepSeek or another tool that can handle a long prompt. Choose the model in your platform; the prompt cannot change it for you. If available, enable web research and file reading. For complete automation, verify scheduled runs and email reading, drafting and sending on your specific platform and account; configure and authorize them before use.
 

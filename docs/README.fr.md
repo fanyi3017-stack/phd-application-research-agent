@@ -59,7 +59,7 @@ Documentation officielle : [ChatGPT Work et Codex](https://help.openai.com/en/ar
 
 La tâche planifiée fournit le rapport quotidien à l’heure prévue ; activez les notifications push ou par courriel de ChatGPT si vous souhaitez être averti. Même sans nouvelle réponse, le rapport doit indiquer l’avancement et les échéances. Sans automatisation, lancez le travail manuellement.
 
-## ⚙️ Modèles et plateformes
+## ⚙ Modèles et plateformes
 
 Utilisez ChatGPT, Claude, Gemini, Kimi, DeepSeek ou un autre outil acceptant les prompts longs. Les fonctions, limites et coûts varient ; sans automatisation ou envoi de courriel, les étapes concernées restent manuelles.
 

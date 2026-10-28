@@ -59,7 +59,7 @@ Documentação oficial: [ChatGPT Work e Codex](https://help.openai.com/en/articl
 
 A tarefa agendada entrega o relatório diário no horário; ative notificações push ou por e-mail do ChatGPT se quiser alertas. Mesmo sem novas respostas, o relatório deve mostrar progresso e prazos. Sem automação, inicie o trabalho manualmente.
 
-## ⚙️ Modelos e plataformas
+## ⚙ Modelos e plataformas
 
 Use ChatGPT, Claude, Gemini, Kimi, DeepSeek ou outra ferramenta que aceite prompts longos. Recursos, limites e custos variam; sem automação ou envio de e-mail, as etapas correspondentes são manuais.
 
