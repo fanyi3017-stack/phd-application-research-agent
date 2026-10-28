@@ -78,6 +78,13 @@ AI의 도움으로 번역하고 핵심 규칙을 확인했습니다. 차이가 �
 
 ## 🙏 감사의 글
 
+**AI 도구와 플랫폼**
+
+<p>
+  <a href="https://github.com/openai"><img src="https://github.com/openai.png?size=96" alt="OpenAI" width="48" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/google"><img src="https://github.com/google.png?size=96" alt="Google" width="48" /></a>
+</p>
+
 AI 도구와 기술을 제공한 [OpenAI](https://github.com/openai)와 [Google](https://github.com/google), 코드·문서·플러그인·문제 해결에 참여한 기여자, 피드백을 제공한 커뮤니티에 감사합니다. [护谜（上海）智能科技有限公司](https://github.com/curatingmysteryshanghai)는 Codex 개발 연산 자원을 제공했습니다.
 
 

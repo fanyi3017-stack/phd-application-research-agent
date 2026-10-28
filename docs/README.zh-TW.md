@@ -78,6 +78,13 @@
 
 ## 🙏 致謝
 
+**AI 工具與平台**
+
+<p>
+  <a href="https://github.com/openai"><img src="https://github.com/openai.png?size=96" alt="OpenAI" width="48" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/google"><img src="https://github.com/google.png?size=96" alt="Google" width="48" /></a>
+</p>
+
 感謝 [OpenAI](https://github.com/openai) 和 [Google](https://github.com/google) 的 AI 工具與技術，以及所有參與程式碼、文件、外掛、問題排查及提供回饋的貢獻者與社群使用者。[护谜（上海）智能科技有限公司](https://github.com/curatingmysteryshanghai)提供 Codex 開發算力。
 
 

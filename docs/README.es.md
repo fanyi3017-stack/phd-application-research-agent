@@ -78,6 +78,13 @@ Si el código caduca, escríbenos al correo indicado.
 
 ## 🙏 Agradecimientos
 
+**Herramientas y plataformas de IA**
+
+<p>
+  <a href="https://github.com/openai"><img src="https://github.com/openai.png?size=96" alt="OpenAI" width="48" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/google"><img src="https://github.com/google.png?size=96" alt="Google" width="48" /></a>
+</p>
+
 Gracias a [OpenAI](https://github.com/openai) y [Google](https://github.com/google) por sus herramientas y tecnología de IA, a quienes contribuyen código, documentación, plugins y solución de problemas, y a la comunidad por sus comentarios. [护谜（上海）智能科技有限公司](https://github.com/curatingmysteryshanghai) aportó capacidad de cómputo para el desarrollo con Codex.
 
 

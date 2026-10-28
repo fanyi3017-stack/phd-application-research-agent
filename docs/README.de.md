@@ -78,6 +78,13 @@ Falls der Code abläuft, kontaktieren Sie uns per E-Mail.
 
 ## 🙏 Danksagung
 
+**KI-Werkzeuge und Plattformen**
+
+<p>
+  <a href="https://github.com/openai"><img src="https://github.com/openai.png?size=96" alt="OpenAI" width="48" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/google"><img src="https://github.com/google.png?size=96" alt="Google" width="48" /></a>
+</p>
+
 Danke an [OpenAI](https://github.com/openai) und [Google](https://github.com/google) für KI-Werkzeuge und Technologie, an alle Mitwirkenden bei Code, Dokumentation, Plugins und Problemlösung sowie an die Community für Rückmeldungen. [护谜（上海）智能科技有限公司](https://github.com/curatingmysteryshanghai) stellte Rechenleistung für die Entwicklung mit Codex bereit.
 
 

@@ -95,6 +95,13 @@ If the code expires, contact us at the email above.
 
 ## 🙏 Acknowledgements
 
+**AI tools and platforms**
+
+<p>
+  <a href="https://github.com/openai"><img src="https://github.com/openai.png?size=96" alt="OpenAI" width="48" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/google"><img src="https://github.com/google.png?size=96" alt="Google" width="48" /></a>
+</p>
+
 Thanks to [OpenAI](https://github.com/openai) and [Google](https://github.com/google) for their AI tools and technology; to everyone contributing code, documentation, plugins and troubleshooting; and to community members sharing feedback and results. [护谜（上海）智能科技有限公司](https://github.com/curatingmysteryshanghai) contributed Codex development compute.
 
 
