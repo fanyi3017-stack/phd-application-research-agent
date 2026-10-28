@@ -87,6 +87,12 @@ Translations are AI-assisted; key rules have been checked. If meanings differ, r
 
 This project focuses on supervisor research and outreach. If your conversations go well, a supervisor may be willing to advise on your research proposal and later applications, including scholarships; support depends on their actual response. If you are unsure about something, join our WeChat community to discuss it with fellow applicants. Contact and group access: [yifan@curatingmyatery.com](mailto:yifan@curatingmyatery.com).
 
+**Scan to join the WeChat group “OFFRR HODERS”:**
+
+<img src="assets/wechat-group.jpg" alt="OFFRR HODERS WeChat group QR code" width="320" />
+
+If the code expires, contact us at the email above.
+
 ## Acknowledgements
 
 Thanks to OpenAI for its tools and technology; to everyone contributing code, documentation, plugins and troubleshooting; and to community members sharing feedback and results. 护谜（上海）智能科技有限公司 contributed Codex development compute.

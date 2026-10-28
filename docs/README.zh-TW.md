@@ -70,6 +70,12 @@
 
 本項目主要負責導師調研與套磁。溝通順利時，導師可能願意指導研究計畫及後續申請，包括獎學金；具體以導師回覆為準。有拿不定主意的問題，歡迎加入微信群討論。聯絡及申請進群：[yifan@curatingmyatery.com](mailto:yifan@curatingmyatery.com)。
 
+**掃碼加入微信群「OFFRR HODERS」：**
+
+<img src="../assets/wechat-group.jpg" alt="OFFRR HODERS WeChat group QR code" width="320" />
+
+若二維碼失效，請透過上方電子郵件聯絡。
+
 ## 致謝
 
 感謝 OpenAI 的工具與技術，以及所有參與程式碼、文件、外掛、問題排查及提供回饋的貢獻者與社群使用者。护谜（上海）智能科技有限公司提供 Codex 開發算力。

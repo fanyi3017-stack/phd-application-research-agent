@@ -70,6 +70,12 @@ AIを利用した翻訳で、重要なルールを確認しています。解釈
 
 このプロジェクトは指導教員の調査と連絡が中心です。やり取りが順調なら、研究計画や奨学金を含む出願について教員から助言を得られる場合があります。支援内容は実際の返答によります。迷ったときは WeChat グループで応募者同士で相談してください。参加・連絡先：[yifan@curatingmyatery.com](mailto:yifan@curatingmyatery.com)。
 
+**WeChat グループ「OFFRR HODERS」への参加：**
+
+<img src="../assets/wechat-group.jpg" alt="OFFRR HODERS WeChat group QR code" width="320" />
+
+コードが無効な場合は、上記メールへご連絡ください。
+
 ## 謝辞
 
 OpenAI のツールと技術、コード・文書・プラグイン・問題解決への貢献者、フィードバックをくださるコミュニティの皆さんに感謝します。护谜（上海）智能科技有限公司は Codex の開発計算資源を提供しました。

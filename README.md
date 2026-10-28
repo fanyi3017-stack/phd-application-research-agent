@@ -118,6 +118,12 @@
 
 联系及申请进群：[yifan@curatingmyatery.com](mailto:yifan@curatingmyatery.com)
 
+**扫码加入微信群「OFFRR HODERS」：**
+
+<img src="assets/wechat-group.jpg" alt="OFFRR HODERS WeChat group QR code" width="320" />
+
+若二维码失效，请通过上方邮箱联系。
+
 ## 致谢
 
 - 感谢 OpenAI 提供的工具与技术。

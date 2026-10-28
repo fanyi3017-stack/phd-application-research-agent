@@ -70,6 +70,12 @@ Tradução assistida por IA, com verificação das regras essenciais. Em caso de
 
 O projeto se concentra na pesquisa de orientadores e no contato inicial. Se a conversa avançar bem, o orientador poderá aconselhar sobre sua proposta e candidaturas posteriores, incluindo bolsas; o apoio depende da resposta dele. Se tiver dúvidas, participe do grupo WeChat para conversar com outros candidatos. Contato e acesso: [yifan@curatingmyatery.com](mailto:yifan@curatingmyatery.com).
 
+**Escaneie para entrar no grupo WeChat “OFFRR HODERS”:**
+
+<img src="../assets/wechat-group.jpg" alt="OFFRR HODERS WeChat group QR code" width="320" />
+
+Se o código expirar, entre em contato pelo e-mail acima.
+
 ## Agradecimentos
 
 Agradecemos à OpenAI por suas ferramentas e tecnologia, às pessoas que contribuem com código, documentação, plugins e solução de problemas e à comunidade pelo retorno. 护谜（上海）智能科技有限公司 forneceu capacidade computacional para o desenvolvimento com Codex.

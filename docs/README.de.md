@@ -70,6 +70,12 @@ KI-gestützte Übersetzung mit Prüfung der wichtigsten Regeln. Bei Abweichungen
 
 Das Projekt konzentriert sich auf die Recherche und Kontaktaufnahme zu Betreuungspersonen. Wenn die Gespräche gut verlaufen, können diese möglicherweise bei Forschungsvorhaben und späteren Bewerbungen, einschließlich Stipendien, beraten; die Unterstützung hängt von ihrer tatsächlichen Antwort ab. Bei Fragen tauschen Sie sich in unserer WeChat-Gruppe mit anderen Bewerbenden aus. Kontakt und Zugang: [yifan@curatingmyatery.com](mailto:yifan@curatingmyatery.com).
 
+**Zum Beitritt zur WeChat-Gruppe „OFFRR HODERS“ scannen:**
+
+<img src="../assets/wechat-group.jpg" alt="OFFRR HODERS WeChat group QR code" width="320" />
+
+Falls der Code abläuft, kontaktieren Sie uns per E-Mail.
+
 ## Danksagung
 
 Danke an OpenAI für Werkzeuge und Technologie, an alle Mitwirkenden bei Code, Dokumentation, Plugins und Problemlösung sowie an die Community für Rückmeldungen. 护谜（上海）智能科技有限公司 stellte Rechenleistung für die Entwicklung mit Codex bereit.

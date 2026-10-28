@@ -70,6 +70,12 @@ AI의 도움으로 번역하고 핵심 규칙을 확인했습니다. 차이가 �
 
 이 프로젝트는 지도교수 조사와 연락에 중점을 둡니다. 대화가 잘 진행되면 교수가 연구계획서와 장학금 등 후속 지원에 조언해 줄 수 있지만, 실제 지원은 교수의 답변에 따라 다릅니다. 고민이 있다면 WeChat 그룹에서 다른 지원자들과 논의하세요. 문의 및 참여: [yifan@curatingmyatery.com](mailto:yifan@curatingmyatery.com).
 
+**WeChat 그룹 ‘OFFRR HODERS’ 참여:**
+
+<img src="../assets/wechat-group.jpg" alt="OFFRR HODERS WeChat group QR code" width="320" />
+
+코드가 만료되면 위 이메일로 연락해 주세요.
+
 ## 감사의 글
 
 도구와 기술을 제공한 OpenAI, 코드·문서·플러그인·문제 해결에 참여한 기여자, 피드백을 제공한 커뮤니티에 감사합니다. 护谜（上海）智能科技有限公司는 Codex 개발 연산 자원을 제공했습니다.
