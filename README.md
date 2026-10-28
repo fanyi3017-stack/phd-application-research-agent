@@ -18,9 +18,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/type-AI%20prompt-12665f?style=flat-square" alt="AI prompt" />
-  <img src="https://img.shields.io/badge/language-中文-456f88?style=flat-square" alt="Chinese prompt" />
-  <img src="https://img.shields.io/badge/license-MIT-c69b45?style=flat-square" alt="MIT license" />
+  <a href="PROMPT.md"><img src="https://img.shields.io/badge/%E6%8F%90%E7%A4%BA%E8%AF%8D-%E8%B0%83%E7%A0%94%E4%B8%8E%E5%A5%97%E7%A3%81-12665f?style=flat-square" alt="提示词: 调研与套磁" /></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/%E8%AF%AD%E8%A8%80%E7%89%88%E6%9C%AC-9%20%E4%B8%AA%E7%89%88%E6%9C%AC-456f88?style=flat-square" alt="语言版本: 9 个版本" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF%E8%AF%81-MIT-87651b?style=flat-square" alt="许可证: MIT" /></a>
+  <a href="https://github.com/fanyi3017-stack/phd-application-research-agent/stargazers"><img src="https://img.shields.io/github/stars/fanyi3017-stack/phd-application-research-agent?style=flat-square&amp;logo=github&amp;label=stars&amp;color=475569" alt="GitHub stars" /></a>
 </p>
 
 这是一份用于博士申请的开源提示词。它帮助你和 AI 一起调研导师、核查项目与资金、准备套磁邮件，并记录申请进度。

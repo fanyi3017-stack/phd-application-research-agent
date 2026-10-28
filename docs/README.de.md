@@ -8,6 +8,13 @@
 
 <p align="center"><a href="../prompts/PROMPT.de.md"><strong>Vollständiger Prompt</strong></a> · <a href="../LICENSE">MIT License</a></p>
 
+<p align="center">
+  <a href="../prompts/PROMPT.de.md"><img src="https://img.shields.io/badge/Prompt-Recherche%20%26%20Kontakt-12665f?style=flat-square" alt="Prompt: Recherche &amp; Kontakt" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/Sprachversionen-9%20Versionen-456f88?style=flat-square" alt="Sprachversionen: 9 Versionen" /></a>
+  <a href="../LICENSE"><img src="https://img.shields.io/badge/Lizenz-MIT-87651b?style=flat-square" alt="Lizenz: MIT" /></a>
+  <a href="https://github.com/fanyi3017-stack/phd-application-research-agent/stargazers"><img src="https://img.shields.io/github/stars/fanyi3017-stack/phd-application-research-agent?style=flat-square&amp;logo=github&amp;label=stars&amp;color=475569" alt="GitHub stars" /></a>
+</p>
+
 Ein Open-Source-Prompt für die Recherche nach Promotionsbetreuung, Finanzierung, Kontakt-E-Mails und Bewerbungsfortschritt mit KI.
 
 **Nimm dir täglich etwa 15 Minuten, um Ergebnisse und E-Mails zu prüfen und die nächsten Schritte zu entscheiden. Einrichtung, Lektüre, Exposé und formale Bewerbung können mehr Zeit brauchen.**

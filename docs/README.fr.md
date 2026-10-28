@@ -8,6 +8,13 @@
 
 <p align="center"><a href="../prompts/PROMPT.fr.md"><strong>Prompt complet</strong></a> · <a href="../LICENSE">MIT License</a></p>
 
+<p align="center">
+  <a href="../prompts/PROMPT.fr.md"><img src="https://img.shields.io/badge/prompt-recherche%20et%20contact-12665f?style=flat-square" alt="prompt: recherche et contact" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/langues-9%20versions-456f88?style=flat-square" alt="langues: 9 versions" /></a>
+  <a href="../LICENSE"><img src="https://img.shields.io/badge/licence-MIT-87651b?style=flat-square" alt="licence: MIT" /></a>
+  <a href="https://github.com/fanyi3017-stack/phd-application-research-agent/stargazers"><img src="https://img.shields.io/github/stars/fanyi3017-stack/phd-application-research-agent?style=flat-square&amp;logo=github&amp;label=stars&amp;color=475569" alt="GitHub stars" /></a>
+</p>
+
 Un prompt open source pour rechercher des directeurs de thèse, vérifier les financements, préparer les prises de contact et suivre sa candidature avec l’IA.
 
 **Consacrez environ 15 minutes par jour à examiner les résultats et courriels, puis à décider de la suite. Configuration initiale, lecture, projet et candidature formelle peuvent prendre davantage de temps.**

@@ -8,6 +8,13 @@
 
 <p align="center"><a href="../prompts/PROMPT.es.md"><strong>Prompt completo</strong></a> · <a href="../LICENSE">MIT License</a></p>
 
+<p align="center">
+  <a href="../prompts/PROMPT.es.md"><img src="https://img.shields.io/badge/prompt-investigaci%C3%B3n%20y%20contacto-12665f?style=flat-square" alt="prompt: investigación y contacto" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/idiomas-9%20versiones-456f88?style=flat-square" alt="idiomas: 9 versiones" /></a>
+  <a href="../LICENSE"><img src="https://img.shields.io/badge/licencia-MIT-87651b?style=flat-square" alt="licencia: MIT" /></a>
+  <a href="https://github.com/fanyi3017-stack/phd-application-research-agent/stargazers"><img src="https://img.shields.io/github/stars/fanyi3017-stack/phd-application-research-agent?style=flat-square&amp;logo=github&amp;label=stars&amp;color=475569" alt="GitHub stars" /></a>
+</p>
+
 Un prompt de código abierto para investigar directores de doctorado, comprobar financiación, preparar correos y organizar tu candidatura con IA.
 
 **Dedica unos 15 minutos diarios a revisar información y correos y decidir el siguiente paso. La configuración inicial, la lectura, la propuesta y la solicitud formal pueden llevar más tiempo.**

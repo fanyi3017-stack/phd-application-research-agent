@@ -14,6 +14,13 @@
   <a href="prompts/PROMPT.en.md">Full prompt</a> · <a href="#-model-and-platform-setup">Model setup</a>
 </p>
 
+<p align="center">
+  <a href="prompts/PROMPT.en.md"><img src="https://img.shields.io/badge/prompt-research%20%26%20outreach-12665f?style=flat-square" alt="prompt: research &amp; outreach" /></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/languages-9%20editions-456f88?style=flat-square" alt="languages: 9 editions" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-87651b?style=flat-square" alt="license: MIT" /></a>
+  <a href="https://github.com/fanyi3017-stack/phd-application-research-agent/stargazers"><img src="https://img.shields.io/github/stars/fanyi3017-stack/phd-application-research-agent?style=flat-square&amp;logo=github&amp;label=stars&amp;color=475569" alt="GitHub stars" /></a>
+</p>
+
 An open-source prompt for researching PhD supervisors, checking programmes and funding, drafting outreach emails, and tracking applications.
 
 Spend around **15 minutes a day** reviewing research, email drafts and next actions. Initial setup, reading, writing proposals and submitting applications can take longer.

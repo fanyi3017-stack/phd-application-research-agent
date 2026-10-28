@@ -8,6 +8,13 @@
 
 <p align="center"><a href="../prompts/PROMPT.ko.md"><strong>전체 프롬프트</strong></a> · <a href="../LICENSE">MIT License</a></p>
 
+<p align="center">
+  <a href="../prompts/PROMPT.ko.md"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%A1%B0%EC%82%AC%EC%99%80%20%EC%97%B0%EB%9D%BD-12665f?style=flat-square" alt="프롬프트: 조사와 연락" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/%EC%96%B8%EC%96%B4%ED%8C%90-9%EA%B0%9C%20%EB%B2%84%EC%A0%84-456f88?style=flat-square" alt="언어판: 9개 버전" /></a>
+  <a href="../LICENSE"><img src="https://img.shields.io/badge/%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-MIT-87651b?style=flat-square" alt="라이선스: MIT" /></a>
+  <a href="https://github.com/fanyi3017-stack/phd-application-research-agent/stargazers"><img src="https://img.shields.io/github/stars/fanyi3017-stack/phd-application-research-agent?style=flat-square&amp;logo=github&amp;label=stars&amp;color=475569" alt="GitHub stars" /></a>
+</p>
+
 박사과정 지원을 위한 오픈소스 프롬프트입니다. AI와 함께 지도교수와 재정을 조사하고 연락 이메일과 진행 상황을 관리합니다.
 
 **하루 약 15분 동안 정보와 이메일을 검토하고 다음 단계를 결정합니다. 초기 설정, 논문 읽기, 연구계획서와 정식 지원에는 더 많은 시간이 필요할 수 있습니다.**

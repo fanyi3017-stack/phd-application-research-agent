@@ -8,6 +8,13 @@
 
 <p align="center"><a href="../prompts/PROMPT.zh-TW.md"><strong>完整提示詞</strong></a> · <a href="../LICENSE">MIT License</a></p>
 
+<p align="center">
+  <a href="../prompts/PROMPT.zh-TW.md"><img src="https://img.shields.io/badge/%E6%8F%90%E7%A4%BA%E8%A9%9E-%E8%AA%BF%E7%A0%94%E8%88%87%E5%A5%97%E7%A3%81-12665f?style=flat-square" alt="提示詞: 調研與套磁" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/%E8%AA%9E%E8%A8%80%E7%89%88%E6%9C%AC-9%20%E5%80%8B%E7%89%88%E6%9C%AC-456f88?style=flat-square" alt="語言版本: 9 個版本" /></a>
+  <a href="../LICENSE"><img src="https://img.shields.io/badge/%E6%8E%88%E6%AC%8A-MIT-87651b?style=flat-square" alt="授權: MIT" /></a>
+  <a href="https://github.com/fanyi3017-stack/phd-application-research-agent/stargazers"><img src="https://img.shields.io/github/stars/fanyi3017-stack/phd-application-research-agent?style=flat-square&amp;logo=github&amp;label=stars&amp;color=475569" alt="GitHub stars" /></a>
+</p>
+
 這份開源提示詞幫你和 AI 一起調查導師、核查資金、準備套磁郵件並管理博士申請進度。
 
 **每天花約 15 分鐘查看資訊、審閱郵件並決定下一步。首次設定、閱讀論文和正式申請可能需要更多時間。**

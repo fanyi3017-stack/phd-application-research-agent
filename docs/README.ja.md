@@ -8,6 +8,13 @@
 
 <p align="center"><a href="../prompts/PROMPT.ja.md"><strong>完全版プロンプト</strong></a> · <a href="../LICENSE">MIT License</a></p>
 
+<p align="center">
+  <a href="../prompts/PROMPT.ja.md"><img src="https://img.shields.io/badge/%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88-%E8%AA%BF%E6%9F%BB%E3%81%A8%E9%80%A3%E7%B5%A1-12665f?style=flat-square" alt="プロンプト: 調査と連絡" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/%E8%A8%80%E8%AA%9E%E7%89%88-9%20%E7%89%88-456f88?style=flat-square" alt="言語版: 9 版" /></a>
+  <a href="../LICENSE"><img src="https://img.shields.io/badge/%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9-MIT-87651b?style=flat-square" alt="ライセンス: MIT" /></a>
+  <a href="https://github.com/fanyi3017-stack/phd-application-research-agent/stargazers"><img src="https://img.shields.io/github/stars/fanyi3017-stack/phd-application-research-agent?style=flat-square&amp;logo=github&amp;label=stars&amp;color=475569" alt="GitHub stars" /></a>
+</p>
+
 博士課程出願のためのオープンソース・プロンプトです。AIと共に指導教員の調査、資金確認、連絡メール、進捗管理を行えます。
 
 **毎日約15分で情報やメールを確認し、次の行動を決めます。初期設定、論文読解、研究計画、正式出願には別途時間がかかります。**

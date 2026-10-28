@@ -8,6 +8,13 @@
 
 <p align="center"><a href="../prompts/PROMPT.pt.md"><strong>Prompt completo</strong></a> · <a href="../LICENSE">MIT License</a></p>
 
+<p align="center">
+  <a href="../prompts/PROMPT.pt.md"><img src="https://img.shields.io/badge/prompt-pesquisa%20e%20contato-12665f?style=flat-square" alt="prompt: pesquisa e contato" /></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/idiomas-9%20vers%C3%B5es-456f88?style=flat-square" alt="idiomas: 9 versões" /></a>
+  <a href="../LICENSE"><img src="https://img.shields.io/badge/licen%C3%A7a-MIT-87651b?style=flat-square" alt="licença: MIT" /></a>
+  <a href="https://github.com/fanyi3017-stack/phd-application-research-agent/stargazers"><img src="https://img.shields.io/github/stars/fanyi3017-stack/phd-application-research-agent?style=flat-square&amp;logo=github&amp;label=stars&amp;color=475569" alt="GitHub stars" /></a>
+</p>
+
 Um prompt de código aberto para pesquisar orientadores de doutorado, verificar financiamento, preparar contatos e acompanhar sua candidatura com IA.
 
 **Reserve cerca de 15 minutos por dia para revisar informações e e-mails e decidir o próximo passo. Configuração inicial, leitura, projeto e candidatura formal podem exigir mais tempo.**
