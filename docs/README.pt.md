@@ -14,6 +14,36 @@ Um prompt de código aberto para pesquisar orientadores de doutorado, verificar 
 
 > Para o processo diário totalmente automatizado, a plataforma precisa oferecer automação agendada e integração de e-mail: conectar, ler, redigir e enviar mensagens com sua autorização. Você aprova cada envio. Pesquisa na web, leitura de arquivos e armazenamento persistente também precisam funcionar.
 
+## A todas as pessoas que se candidatam a um PhD
+
+> Antes de começar suas candidaturas ao PhD, pergunte a si mesmo se fazer um doutorado é realmente o que você deseja. Ao fazer algo, vale voltar a perguntar se aquilo é mesmo uma vontade sua.
+>
+> Ao concluir sua candidatura por conta própria, sem uma agência, o momento em que receber uma oferta será imensamente feliz. Conforme o tempo passa, os momentos de euforia vão ficando mais raros; então tente tornar sua alegria ainda mais alegre.
+>
+> Uma agência ajuda você a fazer algo que já é capaz de fazer. Você já é incrível! Você consegue.
+>
+> — Yi Fan
+
+## Nossa abordagem
+
+Valorizamos um fluxo completo que conecta pesquisa, verificação, contato e candidaturas. Os modelos evoluem: confiamos na sua capacidade de escrita sem impor modelos ou tamanhos fixos. Sua pesquisa, preferências e julgamento orientam o resultado.
+
+- **Quando se candidatar:** no início, 8–10 respostas A/B válidas de orientadores distintos são sugeridas como referência para considerar parar novos contatos e iniciar candidaturas. Você pode ajustar a meta; prazos urgentes não esperam.
+- **Candidaturas diretas também são opções:** são pesquisados programas que não exigem consentimento prévio de orientador; após sua escolha, ficam em A-DIRECT ou B-DIRECT, separados das respostas de orientadores.
+- **Prazos diários:** ao conferir o e-mail, veja também os prazos de candidatura e financiamento, o tempo restante e quanto resta se começar hoje a preparar cada candidatura.
+
+## Recomendamos executar na nuvem
+
+**Recomendamos fortemente as tarefas agendadas na nuvem do ChatGPT Work**, por exemplo no Work pela web ou celular às 10h todos os dias. Uma tarefa na nuvem não depende de seu computador estar ligado. Primeiro confirme que sua conta permite agendamento e que a tarefa realmente acessa a web, o e-mail autorizado, os registros e os arquivos necessários. Você ainda aprova as mensagens antes do envio.
+
+Ao executar o Codex **localmente**, um computador desligado ou em suspensão pode impedir a execução no horário; o mesmo vale para tarefas locais do Work no desktop. O Codex Cloud também é uma opção na nuvem, mas é preciso verificar agendamento e e-mail.
+
+Verifique especialmente o acesso a arquivos: tarefas agendadas criadas em um projeto do ChatGPT não acessam diretamente arquivos carregados ou armazenados nesse projeto. Guarde os registros em local acessível e teste; ajuste o fuso horário, faça uma execução real e confira a próxima execução e o relatório. Os recursos variam por conta, plano e espaço de trabalho.
+
+Por exemplo, teste um arquivo em nuvem ou serviço conectado autorizado para o registro e confira se a tarefa consegue ler e atualizar o mesmo arquivo.
+
+Documentação oficial: [ChatGPT Work e Codex](https://help.openai.com/en/articles/20001275/) · [Tarefas agendadas no ChatGPT](https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt) · [Codex Cloud](https://help.openai.com/en/articles/20001545-using-codex-cloud)
+
 ## O que faz
 
 - Pesquisa orientadores e verifica evidências concretas de afinidade.

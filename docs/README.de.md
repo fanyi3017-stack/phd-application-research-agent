@@ -14,6 +14,36 @@ Ein Open-Source-Prompt für die Recherche nach Promotionsbetreuung, Finanzierung
 
 > Für den vollständigen täglichen Automatikablauf muss die KI-Plattform sowohl geplante Automatisierung als auch E-Mail-Anbindung unterstützen: Sie muss nach deiner Autorisierung E-Mails lesen, entwerfen und versenden können. Jeden Versand bestätigst du selbst. Webrecherche, Dateizugriff und dauerhafte Speicherung müssen ebenfalls verfügbar sein.
 
+## An alle, die sich für eine Promotion bewerben
+
+> Bevor du mit deinen PhD-Bewerbungen beginnst, frage dich ehrlich, ob eine Promotion wirklich dein eigener Wunsch ist. Wenn wir etwas tun, sollten wir uns immer wieder fragen, ob wir es wirklich selbst wollen.
+>
+> Wenn du deine Bewerbung selbst und ohne Vermittlung schaffst, wird der Moment, in dem du eine Zusage erhältst, unglaublich glücklich sein. Mit der Zeit werden Momente überschwänglicher Freude seltener. Versuche deshalb, deine Freude noch freudiger zu machen.
+>
+> Eine Vermittlungsagentur hilft dir bei etwas, das du selbst bereits schaffen kannst. Du bist schon jetzt großartig! Du kannst das.
+>
+> — Yi Fan
+
+## Unsere Haltung
+
+Wir setzen auf einen vollständigen Ablauf, der Recherche, Prüfung, Kontakt und Bewerbung verbindet. Modelle entwickeln sich weiter; wir vertrauen ihrer Schreibfähigkeit und schreiben keine feste Vorlage oder Wortzahl vor. Ihre Forschung, Präferenzen und Entscheidungen bestimmen das Ergebnis.
+
+- **Wann bewerben:** Zu Beginn werden 8–10 gültige A/B-Antworten verschiedener Betreuungspersonen als Richtwert vorgeschlagen, um einen Wechsel von neuen Kontakten zu Bewerbungen zu erwägen. Sie können ihn ändern; dringende Fristen warten nicht.
+- **Direkte Bewerbungen als Optionen:** Programme ohne nötige vorherige Zustimmung werden recherchiert und nach Ihrer Entscheidung als A-DIRECT oder B-DIRECT geführt, getrennt von Antworten der Betreuenden.
+- **Täglich Fristen prüfen:** Beim Prüfen der Post werden Bewerbungs- und Finanzierungsfristen, verbleibende Zeit und die Zeit bei einem Bewerbungsstart heute angezeigt.
+
+## Ausführung in der Cloud empfohlen
+
+**Wir empfehlen ausdrücklich cloudbasierte geplante Aufgaben in ChatGPT Work**, etwa täglich um 10 Uhr über Work im Web oder auf dem Smartphone. Dafür muss Ihr Computer nicht eingeschaltet sein. Prüfen Sie vorher, ob Ihr Konto geplante Aufgaben unterstützt und die Aufgabe tatsächlich auf Web, freigegebenes Postfach, Bewerbungsdaten und benötigte Dateien zugreifen kann. E-Mails geben Sie weiterhin vor dem Versand frei.
+
+Bei **lokalem** Codex kann ein ausgeschalteter oder schlafender Computer die pünktliche Ausführung verhindern; dasselbe gilt für lokale Work-Aufgaben auf dem Desktop. Codex Cloud ist eine weitere Cloud-Option, deren Zeitplanung und E-Mail-Funktionen ebenfalls zu prüfen sind.
+
+Prüfen Sie besonders den Dateizugriff: In einem ChatGPT-Projekt erstellte geplante Aufgaben können nicht direkt auf dort hochgeladene oder gespeicherte Dateien zugreifen. Legen Sie Daten an einem für die Aufgabe zugänglichen Ort ab und testen Sie; stellen Sie die Zeitzone ein und prüfen Sie einen echten Lauf, den nächsten Termin und den Bericht. Funktionen hängen von Konto, Tarif und Workspace ab.
+
+Nutzen Sie beispielsweise eine freigegebene Cloud-Datei oder einen verbundenen Dienst und testen Sie, ob die Aufgabe denselben Datensatz lesen und aktualisieren kann.
+
+Offizielle Hinweise: [ChatGPT Work und Codex](https://help.openai.com/en/articles/20001275/) · [Geplante Aufgaben in ChatGPT](https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt) · [Codex Cloud](https://help.openai.com/en/articles/20001545-using-codex-cloud)
+
 ## Was der Prompt macht
 
 - Betreuende recherchieren und konkrete Belege für fachliche Passung prüfen.

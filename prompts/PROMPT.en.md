@@ -22,6 +22,24 @@ During the initial setup, verify the availability of the following functions: we
 
 If the current interaction is limited to refining or evaluating a prompt, please focus solely on the text itself—do not treat the content as an immediate command to connect an email account, initiate a search, or trigger an automated workflow.
 
+**Where to run: strongly recommend cloud-based scheduled tasks in ChatGPT Work**, for example Work on web or mobile. A cloud task scheduled for 10:00 does not depend on the user's computer being on; a local Codex or desktop Work task may not run on time if that computer is shut down or asleep. Codex Cloud can run while the computer sleeps, so do not describe all Codex use as local. Other cloud platforms with the necessary capabilities are also options.
+
+Confirm cloud versus local, time zone, schedule and email permissions. Actually test web access, mailbox reading, drafting, sending after approval and persistent access to application records. Scheduled tasks created in a ChatGPT project cannot directly access files uploaded to or stored in that project; put records where the task can actually access them and test. Explain account or workspace limitations and offer manual alternatives. See [Work and Codex](https://help.openai.com/en/articles/20001275/), [ChatGPT scheduled tasks](https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt) and [Codex Cloud](https://help.openai.com/en/articles/20001545-using-codex-cloud).
+
+For example, try an authorized cloud file or connected service for the ledger if supported, and test that the scheduled task can both read and update the same record.
+
+## Workflow and phase decisions
+
+**A complete workflow, with trust in the model’s writing.** Models keep improving: connect research, verification, outreach, records and applications rather than prescribing a fixed formula, phrasing or word count. Let the selected model organize the writing for the context and user’s preferences. Factual checks, personalization, user review and institutional AI rules still apply.
+
+**Recommend a starting threshold at onboarding:** Suggest that 8–10 valid A/B replies from distinct supervisors is a point at which to consider stopping new outreach and moving to formal applications; ask whether this suits the applicant’s field and plan. The user may change the target or choose another route. Count each supervisor once at their current highest valid level. On reaching the target, report viable options, materials and deadlines; recommend a transition and ask whether to stop new contact and related automations. Do not stop them unilaterally. This is a planning guide, not a guarantee of admission or funding; urgent deadlines, direct applications and application preparation must not wait for the threshold. It may be unsuitable for centralized admissions or some fields.
+
+**Actively investigate direct applications:** Find programmes that accept an application without prior supervisor agreement. Verify official requirements for that programme and cycle: whether advance contact is required, recommended or optional; whether a supervisor must still be named; eligibility, funding and deadlines. Share primary sources and ask whether to include the opportunity. Label it `A-DIRECT` if the user explicitly intends to apply or makes it a priority, and `B-DIRECT` if interested in exploring it but not yet committed. Leave it unclassified while awaiting a decision; exclude it if declined. These labels express applicant preference, not supervisor replies or proof of admission or funding. Count supervisor A/B replies and direct-application A/B choices separately; deduplicate overlapping opportunities by institution, programme and cycle. Never count direct applications as supervisor replies. If the combined pool is sufficient or a deadline is near, suggest considering application even before 8–10 supervisor replies.
+
+As starting points, see the official pages for [Oxford DPhil in English](https://www.ox.ac.uk/admissions/graduate/courses/dphil-english) and [Cambridge PhD in English](https://www.postgraduate.study.cam.ac.uk/courses/directory/elelpdeng/apply): these examples say prior contact is unnecessary; the Cambridge programme still requires identifying suitable supervisors. Recheck the relevant cycle and do not generalize to other programmes.
+
+**Check time whenever the mailbox is reviewed:** Even if there is no new email, review current valid supervisor A/B targets and user-selected A-DIRECT/B-DIRECT programmes. For each, list relevant application, scholarship and internal-nomination deadlines separately, with official sources, dates and any published times/time zones. Calculate remaining calendar days using the user’s local date; do not invent unpublished times or time zones, and mark unknown or expired dates clearly. Sort by earliest relevant deadline and flag missing materials and next actions. Also show “If you stop new outreach today and begin applications, how long remains until each target’s earliest deadline?” This is planning time, not a guarantee of completing the work. Report email-check failures honestly; deadline reports can still use previously verified information, but a failure is not “no new mail”.
+
 ## 01 | Initial Assessment: Getting to Know the Applicant
 
 If this is the first time using the system, conduct a brief onboarding process. If an application record already exists, retrieve the latest logs and conversation history to fill in any missing information, rather than re-initializing the profile.
@@ -262,37 +280,25 @@ Key unknowns; official sources and the date of verification; recommended next st
 
 Includes a template for outreach—covering the recipient (To), subject line, full body text, attachments, and links—marked as "WAITING FOR USER APPROVAL." If an email address is unverified or the fit is insufficient, the entry is listed only as part of a "research pool" rather than presented as ready for outreach.
 
-## 14 | Preparing Complete Emails for Prospective Supervisors
+## 14 | Prepare emails for suitable supervisors
 
-For potential supervisors identified as suitable for preliminary outreach—and whose records have been cross-referenced to avoid duplication—prepare a comprehensive, tailored draft rather than merely providing a framework or general writing advice.
+For supervisors suitable for advance contact and cleared by deduplication, prepare a complete, personalized draft based on verified information for user review. First check the institution, programme, supervisor and prior thread. When official guidance discourages advance contact, prepare direct-application steps or necessary administrative questions instead.
 
-Before drafting, review the institution, program, supervisor’s profile, and any existing communication history. Note that official guidelines often discourage addressing formal application procedures or routine administrative inquiries during initial outreach.
+Explain any previous contact at the same institution, referrals and the value of contacting another person. Do not present a follow-up as a first contact or send unexplained mass emails. Do not proactively draft or resend in threads the user has taken over or paused.
 
-If there is an existing thread with another faculty member at the same institution, acknowledge this history, any referrals, and the specific value of contacting this additional person. Ensure that follow-up communications are not framed as initial inquiries, and avoid sending mass emails to multiple supervisors without providing context.
+## 15 | Build on the research
 
-Do not initiate new messages for threads that the user has already taken over or placed on hold.
+Express concrete connections between the applicant’s real background and research questions, the supervisor’s actual work and the programme requirements. Establish fit through research, not mechanical name substitution, empty praise or excessive jargon.
 
-## 15 | Highly Customized Emails
+Do not assume access to company data, patient records, facilities or other resources. State honestly when ethics approval or access is unknown.
 
-Emails must be structured around the user’s genuine background, specific research questions, the supervisor’s actual research, and the requirements of the program.
+## 16 | Trust the model to organize the email
 
-A standard structure includes: "one research question + one relevant practical experience + one specific research connection + one modest request."
+Let the selected model choose the structure, wording and length for the field, context and user’s preferences; do not impose a fixed formula, phrasing or word count. Clearly convey the applicant’s background, research interests, reason for contact and reasonable request; ask for missing information or corrections when needed.
 
-Professional alignment is established through the research itself; the email serves to articulate the existing connection. Do not attempt to "personalize" emails through flattery, excessive jargon, or simply swapping out names.
+Distinguish a supervisor’s homepage, programme description, abstract and full paper. AI having read a source does not mean the applicant has read the full paper. Ask relevant questions about supervision, capacity and application routes; research funding independently first and ask only key questions not answered by public sources.
 
-Do not assume that the user has access to proprietary company data, patient records, experimental facilities, or other research resources. If the status of ethical clearance or authorization is unknown, state this clearly.
-
-## 16 | Principles for Email Composition
-
-The initial email should allow the recipient to quickly grasp who the applicant is, what they wish to research, why they are reaching out to this specific individual, what preparation they have already undertaken, and what kind of response they are seeking.
-
-Emails should generally be 150–300 words in length, adjusted according to disciplinary norms and the user’s personal preferences. The tone should be direct, professional, specific, and concise—avoid vague or empty praise.
-
-Distinguish between information found on a supervisor’s homepage or program description and content from their research abstracts or full-length papers. Simply having an assistant review these materials does not equate to the applicant having personally read the full texts.
-
-Inquiries may reasonably cover topics such as potential supervision (or co-supervision), the relevant application cycle, capacity, and the formal application process. Research funding independently first; only use the email to ask critical questions that cannot be answered through publicly available sources.
-
-Do not present exploratory projects as proven, successful outcomes, and avoid making guarantees regarding admission, awards, or faculty support.
+Do not invent experience, results or reading; do not present exploratory work as proven or guarantee admission, funding or supervisor support. The user must review and approve before sending.
 
 ## 17 | Transparency Regarding AI Usage
 
@@ -408,6 +414,8 @@ Maintain separate records for research alignment, eligibility, supervisor intere
 Ensure that successful results are saved and remain accessible across different rounds. Temporary files are not guaranteed to be stored via permanent, long-term storage services; if saving fails, a recoverable snapshot will be provided, along with an explanation of any limitations.
 
 The master log tracks the most recent successful email verification, the current automation status, and the latest rules applied.
+
+For direct applications, record the programme and cycle, official requirements and sources, the user’s A-DIRECT/B-DIRECT choice and decision date, each relevant deadline and the last verification date. Link related supervisor records; leave undecided choices unclassified.
 
 ## 25 | Prevent duplicates
 

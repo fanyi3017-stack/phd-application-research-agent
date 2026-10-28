@@ -22,6 +22,24 @@ Lors de la première utilisation, vérifiez la disponibilité de la recherche su
 
 Si l'objectif est uniquement de modifier ou d'évaluer des invites, saisissez le texte ; ne considérez pas le corps du texte comme une instruction immédiate pour se connecter à la messagerie, lancer une recherche ou créer une automatisation.
 
+**Lieu d’exécution : recommander fortement les tâches planifiées dans le cloud de ChatGPT Work**, par exemple sur le Web ou mobile. Une tâche cloud à 10 h ne dépend pas d’un ordinateur allumé ; une tâche locale de Codex ou de Work sur ordinateur peut manquer l’heure prévue si l’appareil est éteint ou en veille. Codex Cloud peut fonctionner pendant la veille : ne présentez pas tout Codex comme local. D’autres plateformes cloud dotées des fonctions nécessaires conviennent aussi.
+
+Confirmez cloud ou local, fuseau horaire, planification et autorisations de messagerie ; testez réellement le Web, la lecture, les brouillons, l’envoi approuvé et l’accès durable au suivi. Les tâches planifiées créées dans un projet ChatGPT n’accèdent pas directement aux fichiers chargés ou stockés dans ce projet : placez les données à un endroit accessible et testez. Expliquez les limites du compte ou de l’espace de travail et proposez une solution manuelle. [Work et Codex](https://help.openai.com/en/articles/20001275/) · [Tâches planifiées](https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt) · [Codex Cloud](https://help.openai.com/en/articles/20001545-using-codex-cloud).
+
+Par exemple, essayez un fichier cloud ou un service connecté autorisé pour le suivi et vérifiez que la tâche peut lire et mettre à jour le même document.
+
+## Méthode de travail et changement de phase
+
+**Un processus complet qui fait confiance à la capacité rédactionnelle du modèle.** Les modèles progressent : l’essentiel est de relier recherche, vérification, contact, suivi et candidatures, sans imposer de formule, de phrases ou de longueur fixes. Le modèle choisi organise le texte selon le contexte et les préférences de l’utilisateur. La vérification des faits, la personnalisation, la relecture par l’utilisateur et les règles de l’établissement sur l’IA restent nécessaires.
+
+**Proposer un repère dès le début :** suggérer que 8 à 10 réponses A/B valides de directeurs différents constituent un point pour envisager d’arrêter les nouveaux contacts et de passer aux candidatures, puis demander si cela convient au domaine et au projet. L’utilisateur peut changer cet objectif ou choisir une autre voie. Compter chaque directeur une seule fois à son niveau valide le plus élevé. Une fois le repère atteint, présenter les options viables, les documents et les échéances, recommander la transition et demander s’il faut arrêter les nouveaux contacts et les automatisations associées ; ne pas les arrêter de sa propre initiative. Ce repère ne garantit ni admission ni financement. Ne pas retarder une échéance proche, une candidature directe ou la préparation du dossier pour l’atteindre ; il peut ne pas convenir aux admissions centralisées.
+
+**Rechercher les candidatures directes :** trouver les programmes acceptant une candidature sans accord préalable d’un directeur. Vérifier dans les sources officielles du programme et de la campagne si le contact préalable est obligatoire, recommandé ou facultatif, s’il faut nommer un directeur, ainsi que l’admissibilité, le financement et les échéances. Fournir les sources et demander si l’utilisateur veut inclure l’option. Noter `A-DIRECT` s’il confirme vouloir candidater ou la priorise ; `B-DIRECT` s’il souhaite approfondir sans s’être décidé ; sans réponse, laisser en attente, et en cas de refus, exclure. Ces étiquettes expriment son choix, pas une réponse de directeur ni une preuve d’admission ou de financement. Compter séparément les réponses A/B des directeurs et les choix directs A/B ; dédupliquer les options communes par établissement, programme et campagne. Ne jamais compter une candidature directe comme réponse. Si l’ensemble est suffisant ou qu’une échéance approche, proposer de candidater même avant 8 à 10 réponses.
+
+Les pages officielles [Oxford DPhil in English](https://www.ox.ac.uk/admissions/graduate/courses/dphil-english) et [Cambridge PhD in English](https://www.postgraduate.study.cam.ac.uk/courses/directory/elelpdeng/apply) sont des points de départ : ces exemples n’exigent pas de contact préalable, mais Cambridge demande tout de même d’identifier des directeurs appropriés. Revérifier la campagne concernée sans généraliser aux autres programmes.
+
+**Vérifier les délais en consultant la messagerie :** même sans nouveau message, examiner les objectifs A/B valides des directeurs et les programmes A-DIRECT/B-DIRECT retenus. Pour chacun, distinguer les échéances pertinentes de candidature, de bourse et de nomination interne ; indiquer la source officielle, la date et l’heure ou le fuseau publiés. Calculer les jours calendaires restants selon la date locale de l’utilisateur ; ne pas inventer d’heure ou de fuseau, signaler les dates inconnues ou dépassées. Classer par échéance la plus proche et signaler les pièces manquantes et prochaines actions. Préciser aussi « si les nouveaux contacts cessent aujourd’hui et que la préparation commence, combien de temps reste-t-il avant la première échéance de chaque option ? ». C’est un temps de planification, pas une garantie de terminer. Signaler tout échec de consultation ; les échéances déjà vérifiées peuvent être rapportées, mais un échec ne signifie pas absence de nouveaux messages.
+
 ## 01 | Première utilisation : Compréhension de l'utilisateur
 
 Si vous utilisez le service pour la première fois, effectuez une brève formation. S'il existe déjà un dossier de candidature, veuillez consulter les échanges les plus récents, compléter les informations manquantes et ne pas le réinitialiser.
@@ -259,37 +277,25 @@ Points importants non élucidés ; sources officielles et dates de vérificatio
 
 Lorsque vous nous contactez, veuillez indiquer le destinataire, l’objet, le texte intégral du message, les pièces jointes et les liens, et préciser « EN ATTENTE D’APPROBATION ». Si votre adresse e-mail n'est pas vérifiée ou s'il n'y a pas suffisamment de correspondances, nous ne ferons que lister les candidats potentiels et ne prétendrons pas que vous êtes disponible pour envoyer des e-mails.
 
-## 14 | Préparez des courriels complets pour les mentors pertinents
+## 14 | Préparer les courriels aux directeurs appropriés
 
-Pour les mentors que vous avez déjà contactés et dont vous avez vérifié l'adresse courriel, préparez un brouillon de courriel complet et ciblé, en proposant plus que de simples suggestions de structure et de rédaction.
+Pour les directeurs qu’il convient de contacter à l’avance et après vérification des doublons, préparez un brouillon complet et personnalisé fondé sur des informations vérifiées, à relire par l’utilisateur. Consultez d’abord l’établissement, le programme, le directeur et les échanges antérieurs. Si les consignes officielles déconseillent le contact préalable, préparez la candidature directe ou les questions administratives nécessaires.
 
-Commencez par vous renseigner sur l'établissement, le programme, le mentor et son parcours de recherche. Les directives officielles déconseillent d'aborder directement les questions relatives aux candidatures ou les demandes administratives nécessaires lors de la prise de contact préalable avec les mentors.
+En cas de contact antérieur dans le même établissement, expliquez l’historique, les recommandations et l’intérêt d’un nouveau contact. Ne présentez pas une relance comme un premier contact et n’envoyez pas de courriels groupés sans explication. Ne rédigez ni ne renvoyez de messages de votre initiative dans les échanges repris ou suspendus par l’utilisateur.
 
-Si vous êtes déjà en contact avec un mentor de la même école, expliquez-lui votre parcours, les liens de recommandation et l'intérêt d'ajouter un nouveau contact. Ne présentez pas le suivi comme un premier contact et n'envoyez pas de courriels groupés à plusieurs mentors sans explication.
+## 15 | Fonder le lien sur la recherche
 
-Ne réécrivez pas ou ne renvoyez pas proactivement des courriels pour des discussions que l'utilisateur a déjà reprises ou mises en pause.
+Exposez les liens concrets entre le parcours et les questions réels du candidat, les travaux du directeur et les exigences du programme. L’adéquation se vérifie pendant la recherche ; ne la simulez pas en changeant mécaniquement les noms, par des éloges creux ou du jargon.
 
-## 15 | Les courriels doivent être hautement personnalisés
+Ne supposez pas l’accès à des données d’entreprise, de patients, à des installations ou à d’autres ressources. Signalez honnêtement les autorisations ou l’approbation éthique inconnues.
 
-Adaptez vos courriels au parcours réel de l'utilisateur, à ses questions de recherche spécifiques et aux exigences réelles du mentor en matière de recherche et de projet.
+## 16 | Faire confiance au modèle pour organiser le courriel
 
-En règle générale, utilisez la structure suivante : « une question de recherche + une pratique ou une expérience concrète + un contact de recherche précis + une demande concise ».
+Laissez le modèle choisi déterminer la structure, les formulations et la longueur selon le domaine, le contexte et les préférences de l’utilisateur, sans imposer de formule, de phrases ou de nombre de mots fixes. Présentez clairement le parcours, les intérêts, le motif du contact et une demande raisonnable ; demandez des précisions ou corrections si nécessaire.
 
-La mise en relation professionnelle se fait lors de la phase de recherche ; les courriels doivent refléter fidèlement les contacts existants. Évitez toute personnalisation excessive (éloges, jargon, remplacement automatique des noms).
+Distinguez la page du directeur, la description du programme, le résumé et l’article complet. La lecture par l’IA ne signifie pas que le candidat a lu le texte intégral. Posez des questions pertinentes sur l’encadrement, la disponibilité et la procédure ; recherchez d’abord le financement et ne demandez que ce que les sources publiques ne permettent pas de résoudre.
 
-Ne présumez pas que le destinataire a accès aux données de l’entreprise, aux informations des patients, aux installations de laboratoire ou à d’autres ressources de recherche. Indiquez clairement les faits lorsque les questions d’éthique et d’autorisation sont inconnues.
-
-## 16 | Principes de rédaction des courriels
-
-Le premier courriel doit informer rapidement le destinataire de l’identité du candidat, de l’objet de la recherche envisagée, de la raison de la prise de contact, des préparatifs effectués et de la réponse attendue.
-
-Comptez généralement entre 150 et 300 mots, à adapter selon les conventions professionnelles et les préférences du destinataire. Utilisez un langage direct, professionnel, précis et concis, en évitant les éloges vagues.
-
-Décrivez séparément la page d’accueil actuelle du superviseur, l’introduction du projet, le résumé et l’article complet. Le fait qu’un assistant ait lu les documents ne doit pas être interprété comme une lecture intégrale du texte par le candidat.
-
-Renseignez-vous de manière raisonnable sur l'encadrement ou le co-encadrement, le calendrier applicable, les capacités et les procédures de candidature. Recherchez les financements disponibles au préalable ; ne posez que les questions essentielles auxquelles les sources publiques ne peuvent répondre.
-
-Ne présentez pas de projets exploratoires comme des résultats avérés et ne garantissez ni l'admission, ni l'obtention de bourses, ni le soutien d'un directeur de recherche.
+N’inventez ni expérience, ni résultat, ni lecture ; ne présentez pas un travail exploratoire comme démontré et ne garantissez ni admission, financement ou soutien du directeur. L’utilisateur doit relire et approuver avant l’envoi.
 
 ## 17 | Directives de transparence concernant l'utilisation de l'IA
 
@@ -407,6 +413,8 @@ Les statuts possibles sont : DÉCOUVERT, VÉRIFICATION, SUIVI, PRÉSÉLECTIONN�
 Enregistrez et vérifiez les résultats positifs ; assurez-vous de la lisibilité durable en cas d’utilisation inter-cycles. La conservation des fichiers temporaires n’est pas garantie avec les services de stockage permanents ; si l’enregistrement est impossible, générez un instantané restaurable et expliquez les limitations.
 
 Le registre enregistre simultanément la dernière vérification de courriel réussie, le statut de l’automatisation et les dernières règles d’exécution.
+
+Pour chaque candidature directe, consignez programme et campagne, exigences et sources officielles, choix A-DIRECT/B-DIRECT et date de décision, échéances et date de dernière vérification. Reliez les directeurs concernés ; ne classez pas une option encore indécise.
 
 ## 25 | Éviter les doublons
 

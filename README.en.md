@@ -20,6 +20,36 @@ Spend around **15 minutes a day** reviewing research, email drafts and next acti
 
 For the complete daily automated workflow, your AI platform must support **scheduled automation and email integration**: it must be able to work on a schedule and connect to an email account to read, draft and send messages. You approve each message before it is sent. Web research, file reading and persistent application records must also be available.
 
+## To everyone applying for a PhD
+
+> Before you begin your PhD applications, ask yourself: is doing a PhD truly what you want? Whatever you do, take the time to ask yourself whether it is really your own choice.
+>
+> When you apply by yourself instead of through an agency, the moment you receive an offer will be incredibly joyful. As time moves forward, moments of sheer joy become fewer, so try to make your joy even more joyful.
+>
+> An agency is helping you do something you are already capable of doing yourself. You are already amazing. You can do this!
+>
+> — Yi Fan
+
+## Our approach
+
+A complete workflow connects research, verification, outreach and applications. Models keep improving, so we trust their writing ability instead of imposing a fixed template or word count. Your research, preferences and judgment guide the result.
+
+- **When to apply:** At onboarding, the agent suggests 8–10 valid A/B replies from distinct supervisors as a reference for considering a shift from new outreach to applications. You can adjust it; urgent deadlines do not wait.
+- **Direct applications count as options:** The agent investigates programmes that do not require prior supervisor agreement and asks whether you want to include them as A-DIRECT or B-DIRECT. These are counted separately from supervisor replies.
+- **Deadlines every day:** Mail checks also show application and funding deadlines, remaining time and how long each target has if you start preparing applications today.
+
+## Recommended: run in the cloud
+
+**We strongly recommend cloud-based scheduled tasks in ChatGPT Work**, for example using Work on the web or mobile for a daily 10:00 run. Cloud tasks do not depend on your computer being on. First verify that your account supports scheduling and that the task can actually access web research, your authorized mailbox, application records and necessary files. You still approve emails before sending.
+
+With **local** Codex, a shut-down or sleeping computer may prevent a scheduled run from starting on time; the same applies to local Work tasks on desktop. Codex Cloud is another cloud option and does not require your computer to stay on, but scheduling and email capabilities still need verification.
+
+Check file access especially: scheduled tasks created in a ChatGPT project cannot directly access files uploaded to or stored in that project. Place records where the task can actually access them and test. Set the time zone, run a real test and check the next run and report. Features vary by account, plan and workspace.
+
+For example, try an authorized cloud file or connected service for the ledger if supported, and test that the scheduled task can both read and update the same record.
+
+Official guidance: [ChatGPT Work and Codex](https://help.openai.com/en/articles/20001275/) · [Scheduled tasks in ChatGPT](https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt) · [Codex Cloud](https://help.openai.com/en/articles/20001545-using-codex-cloud)
+
 ## What it covers
 
 - Research supervisors and show concrete evidence of fit.

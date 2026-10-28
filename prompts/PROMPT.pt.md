@@ -22,6 +22,24 @@ Ao utilizar o serviço pela primeira vez, verifique se a pesquisa em páginas da
 
 Se o objetivo for apenas modificar ou avaliar prompts, conclua o trabalho de texto; não interprete o corpo do texto como uma instrução imediata para conectar-se ao e-mail, iniciar uma pesquisa ou criar uma automação.
 
+**Local de execução: recomende fortemente tarefas agendadas na nuvem do ChatGPT Work**, por exemplo no Work pela web ou no celular. Uma tarefa na nuvem às 10h não depende de o computador estar ligado; uma tarefa local do Codex ou do Work no desktop pode não executar no horário se ele estiver desligado ou em suspensão. O Codex Cloud pode funcionar enquanto o computador dorme; não descreva todo uso do Codex como local. Outras plataformas em nuvem com os recursos necessários também podem ser usadas.
+
+Confirme nuvem ou local, fuso horário, agendamento e permissões de e-mail; teste acesso à web, leitura, rascunhos, envio aprovado e acesso persistente aos registros. Tarefas agendadas criadas em um projeto ChatGPT não acessam diretamente arquivos carregados ou armazenados nesse projeto: coloque os registros onde a tarefa possa acessá-los e teste. Explique limitações de conta ou espaço de trabalho e ofereça alternativa manual. [Work e Codex](https://help.openai.com/en/articles/20001275/) · [Tarefas agendadas](https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt) · [Codex Cloud](https://help.openai.com/en/articles/20001545-using-codex-cloud).
+
+Por exemplo, teste um arquivo em nuvem ou serviço conectado autorizado para o registro e confira se a tarefa consegue ler e atualizar o mesmo arquivo.
+
+## Modo de trabalho e mudança de fase
+
+**Um processo completo que confia na capacidade de escrita do modelo.** Os modelos evoluem: o foco é ligar pesquisa, verificação, contato, registros e candidaturas, sem impor fórmula, frases ou quantidade de palavras fixas. O modelo escolhido organiza o texto conforme o contexto e as preferências do usuário. Verificação factual, personalização, revisão pelo usuário e regras da instituição sobre IA continuam necessárias.
+
+**Sugira uma referência no início:** apresente 8–10 respostas A/B válidas de orientadores diferentes como ponto para considerar parar novos contatos e passar às candidaturas formais; pergunte se isso se adequa à área e ao plano. O usuário pode alterar a meta ou escolher outra via. Conte cada orientador uma vez no nível válido mais alto atual. Ao atingir a referência, apresente opções viáveis, documentos e prazos, recomende a transição e pergunte se deseja parar novos contatos e as automações relacionadas; não as interrompa por conta própria. É uma referência, não garantia de admissão ou financiamento. Não atrase candidatura urgente, inscrição direta ou preparação de documentos para atingir esse número; ele pode não servir à seleção centralizada.
+
+**Pesquise candidaturas diretas:** encontre programas que aceitem inscrição sem consentimento prévio de orientador. Verifique nas fontes oficiais do programa e do ciclo se o contato anterior é obrigatório, recomendado ou opcional, se é preciso indicar orientador, e quais são os requisitos, financiamentos e prazos. Mostre as fontes e pergunte se o usuário quer incluir a opção. Marque `A-DIRECT` se ele confirmar que quer se candidatar ou torná-la prioritária; `B-DIRECT` se tiver interesse em investigar mais, mas ainda não decidiu; sem resposta, deixe pendente, e exclua se ele recusar. Essas etiquetas expressam a preferência do candidato, não resposta do orientador nem prova de admissão ou financiamento. Conte separadamente as respostas A/B dos orientadores e as opções diretas A/B; elimine duplicatas por instituição, programa e ciclo. Não conte inscrição direta como resposta. Se o conjunto for suficiente ou um prazo estiver próximo, sugira passar à candidatura mesmo antes de 8–10 respostas.
+
+As páginas oficiais de [Oxford DPhil in English](https://www.ox.ac.uk/admissions/graduate/courses/dphil-english) e [Cambridge PhD in English](https://www.postgraduate.study.cam.ac.uk/courses/directory/elelpdeng/apply) são pontos de partida: nesses exemplos não se exige contato prévio, embora Cambridge ainda peça identificar orientadores adequados. Confira novamente o ciclo pertinente e não generalize para outros programas.
+
+**Confira os prazos ao revisar o e-mail:** mesmo sem mensagens novas, examine os candidatos válidos A/B de orientadores e os programas A-DIRECT/B-DIRECT escolhidos pelo usuário. Para cada opção, separe os prazos relevantes de candidatura, bolsa e indicação interna; informe fonte oficial, data e horário ou fuso publicados. Calcule os dias corridos restantes usando a data local do usuário; não invente horário ou fuso e sinalize dados desconhecidos ou vencidos. Ordene pelo prazo mais próximo e destaque documentos faltantes e próximos passos. Mostre também “se parar novos contatos hoje e começar a candidatura, quanto tempo resta até o primeiro prazo de cada opção?”. É tempo de planejamento, não garantia de conclusão. Informe se a verificação do e-mail falhar; pode relatar prazos já verificados, mas não afirmar que não há mensagens novas.
+
 ## 01 | Primeira Execução: Compreendendo o Candidato
 
 Se esta for a sua primeira vez utilizando o serviço, realize uma breve integração. Se houver registros de candidaturas existentes, leia o histórico e as conversas mais recentes, preencha as informações faltantes e não reinicie o processo.
@@ -255,35 +273,25 @@ Informações importantes desconhecidas; fontes oficiais e datas de verificaçã
 
 Ao entrar em contato conosco, inclua "Para", "Assunto", o texto completo da mensagem, anexos e links; e indique "AGUARDANDO APROVAÇÃO DO USUÁRIO". Se o seu endereço de e-mail não for verificado ou se não houver correspondências suficientes, apenas incluiremos o grupo de pesquisa na lista e não presumiremos que você esteja disponível para enviar e-mails.
 
-## 14 | Prepare e-mails completos para mentores relevantes
+## 14 | Preparar e-mails para orientadores adequados
 
-Para mentores que você já contatou e cujos e-mails foram verificados, prepare um rascunho de e-mail completo e direcionado, oferecendo mais do que apenas sugestões de estrutura e escrita.
+Para orientadores cujo contato prévio seja apropriado e que tenham passado pela verificação de duplicatas, prepare um rascunho completo e personalizado com base em informações verificadas, para revisão do usuário. Consulte primeiro instituição, programa, orientador e histórico de conversa. Se a orientação oficial desaconselhar o contato prévio, prepare os passos da candidatura direta ou as consultas administrativas necessárias.
 
-Primeiro, pesquise sobre a instituição, o programa, o mentor e o histórico de pesquisa. As diretrizes oficiais desaconselham o uso de informações diretas sobre a candidatura ou consultas administrativas necessárias ao contatar mentores com antecedência.
+Se já houver contato na mesma instituição, explique o histórico, as indicações e o valor do novo contato. Não apresente acompanhamento como primeiro contato nem envie mensagens em massa sem explicação. Não escreva nem reenvie por iniciativa própria em conversas assumidas ou pausadas pelo usuário.
 
-Se você já tem contato com um mentor na mesma instituição, explique o histórico, as relações de indicação e a importância de adicionar um novo contato; não apresente o acompanhamento como o primeiro contato e não envie e-mails em massa para vários mentores sem explicação.
+## 15 | Fundamentar a conexão na pesquisa
 
-Não reescreva ou reenvie proativamente e-mails para conversas que o usuário já assumiu ou pausou.
+Expresse conexões concretas entre a experiência e as perguntas reais do candidato, a pesquisa do orientador e os requisitos do programa. A compatibilidade é estabelecida pela pesquisa, não pela troca mecânica de nomes, elogios vazios ou excesso de jargão.
 
-## 15 | Os e-mails devem ser altamente personalizados
+Não presuma acesso a dados de empresas, pacientes, instalações ou outros recursos. Quando a autorização ou aprovação ética for desconhecida, informe isso com honestidade.
 
-Reorganize os e-mails com base na experiência real do usuário, em perguntas de pesquisa específicas e nos requisitos reais de pesquisa e projeto do mentor.
+## 16 | Confiar ao modelo a organização do e-mail
 
-Normalmente, use "uma pergunta de pesquisa + uma prática ou experiência real + uma conexão de pesquisa específica + uma solicitação simples". A compatibilidade profissional é estabelecida durante a fase de pesquisa; os e-mails devem expressar com precisão as conexões existentes. Evite personalizar a mensagem por meio de elogios, jargões ou substituição mecânica de nomes.
+Deixe o modelo escolhido definir estrutura, redação e extensão conforme a área, o contexto e as preferências do usuário, sem impor fórmula, frases ou número de palavras fixos. Apresente com clareza a trajetória, os interesses, o motivo do contato e um pedido razoável; peça informações ou correções quando necessário.
 
-Não presuma que o usuário tenha acesso a dados da empresa, informações de pacientes, instalações de laboratório ou outros recursos de pesquisa. Apresente os fatos quando questões éticas e de autorização forem desconhecidas.
+Diferencie página do orientador, descrição do programa, resumo e artigo completo. A leitura pela IA não significa que o candidato tenha lido o texto integral. Pergunte adequadamente sobre orientação, disponibilidade e candidatura; pesquise antes o financiamento e pergunte apenas o que fontes públicas não esclarecem.
 
-## 16 | Princípios de Redação de E-mails
-
-O primeiro e-mail deve informar rapidamente ao destinatário quem é o solicitante, qual pesquisa ele deseja conduzir, por que está entrando em contato, quais preparativos foram feitos e qual resposta ele espera.
-
-Normalmente, o e-mail deve conter de 150 a 300 palavras em inglês, ajustado de acordo com as convenções profissionais e as preferências do usuário. Use uma linguagem direta, profissional, específica e concisa, evitando elogios vagos.
-
-Descreva separadamente a página inicial atual do supervisor, a introdução do projeto, o resumo e o artigo completo. O fato de o assistente ter lido o material não deve ser automaticamente atribuído ao solicitante por ter lido o texto inteiro.
-
-Pergunte de forma razoável sobre orientação ou co-orientação, cronograma aplicável, disponibilidade e vias de inscrição. Investigue o financiamento de forma independente com antecedência. Faça apenas perguntas-chave que não possam ser respondidas por fontes publicamente disponíveis.
-
-Não apresente projetos exploratórios como resultados comprovados e não garanta admissão, prêmios ou apoio de supervisores.
+Não invente experiências, resultados ou leituras; não apresente trabalho exploratório como comprovado nem garanta admissão, financiamento ou apoio do orientador. O usuário deve revisar e aprovar antes do envio.
 
 ## 17 | Diretrizes de Transparência no Uso de IA
 
@@ -401,6 +409,8 @@ Os status podem ser DESCOBERTO, VERIFICANDO, OBSERVANDO, SELECIONADO, PREPARANDO
 Salve e verifique os resultados bem-sucedidos; verifique a legibilidade sustentável quando o uso entre rodadas for necessário. Não há garantia de que os arquivos temporários serão retidos usando serviços de armazenamento persistente reais; se o salvamento não for possível, gere um instantâneo que possa ser restaurado e explique as limitações.
 
 O registro simultaneamente armazena a última verificação de e-mail bem-sucedida, o status da automação e as regras de execução mais recentes.
+
+Para candidaturas diretas, registre programa e ciclo, requisitos e fontes oficiais, escolha A-DIRECT/B-DIRECT e data da decisão, prazos e última verificação. Vincule os registros dos orientadores relacionados; não classifique opções ainda indecisas.
 
 ## 25 | Evitar duplicações
 

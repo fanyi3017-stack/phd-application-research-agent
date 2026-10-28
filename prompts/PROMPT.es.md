@@ -22,6 +22,24 @@ En el primer uso, compruebe si la búsqueda en páginas web, la lectura de archi
 
 Si solo se trata de modificar o evaluar indicaciones, complete el texto; no lo interprete como una instrucción inmediata para conectarse al correo electrónico, iniciar una búsqueda o crear una automatización.
 
+**Lugar de ejecución: recomendamos encarecidamente las tareas programadas en la nube de ChatGPT Work**, por ejemplo en la web o el móvil. Una tarea en la nube a las 10:00 no depende de que el ordenador esté encendido; una tarea local de Codex o de Work en escritorio puede no ejecutarse a tiempo si está apagado o en suspensión. Codex Cloud puede funcionar mientras el ordenador duerme: no describas todo Codex como local. También pueden usarse otras plataformas en la nube con las capacidades necesarias.
+
+Confirma nube o local, zona horaria, programación y permisos de correo; prueba de verdad la web, lectura, borradores, envío aprobado y acceso persistente a registros. Las tareas programadas creadas en un proyecto de ChatGPT no acceden directamente a sus archivos cargados o guardados: coloca los registros donde la tarea pueda acceder y pruébalo. Explica las limitaciones de cuenta o espacio de trabajo y ofrece alternativas manuales. [Work y Codex](https://help.openai.com/en/articles/20001275/) · [Tareas programadas](https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt) · [Codex Cloud](https://help.openai.com/en/articles/20001545-using-codex-cloud).
+
+Por ejemplo, prueba un archivo en la nube o servicio conectado autorizado para los registros y verifica que la tarea pueda leer y actualizar el mismo archivo.
+
+## Forma de trabajo y cambio de fase
+
+**Un proceso completo que confía en la capacidad de escritura del modelo.** Los modelos mejoran: conectamos investigación, verificación, contacto, registro y solicitudes, sin imponer una fórmula, frases ni extensión fijas. El modelo elegido organiza el texto según el contexto y las preferencias del usuario. Siguen siendo obligatorias la verificación de hechos, la personalización, la revisión del usuario y las normas institucionales sobre IA.
+
+**Propón una referencia al comenzar:** sugiere que 8–10 respuestas A/B válidas de distintos directores sean un punto para considerar detener nuevos contactos y pasar a las solicitudes formales; pregunta si encaja con la disciplina y los planes del usuario. Puede cambiar la meta o elegir otra vía. Cuenta a cada director una sola vez en su nivel válido más alto. Al alcanzarla, muestra opciones viables, materiales y plazos, recomienda el cambio y pregunta si desea detener nuevos contactos y las automatizaciones relacionadas; no las detengas por tu cuenta. Es una guía, no garantiza admisión ni financiación. No retrases solicitudes urgentes, vías directas ni preparación por esperar la meta; puede no ser apropiada para admisión centralizada.
+
+**Investiga las solicitudes directas:** busca programas que permitan presentar la solicitud sin consentimiento previo del director. Comprueba en fuentes oficiales del programa y convocatoria si el contacto previo es obligatorio, recomendado u opcional, si hay que identificar a un director y cuáles son los requisitos, financiación y plazos. Comparte las fuentes primarias y pregunta si incluir la opción. Usa `A-DIRECT` si el usuario confirma que quiere solicitarla o la prioriza; `B-DIRECT` si le interesa seguir investigando pero aún no se decide; sin respuesta queda pendiente, y si la rechaza se excluye. Son preferencias del solicitante, no respuestas del director ni prueba de admisión o financiación. Cuenta por separado las respuestas A/B de directores y las opciones directas A/B; elimina duplicados por institución, programa y convocatoria. Nunca cuentes una solicitud directa como respuesta. Si el conjunto ya es suficiente o se acerca un plazo, sugiere pasar a solicitar aunque haya menos de 8–10 respuestas.
+
+Las páginas oficiales de [Oxford DPhil in English](https://www.ox.ac.uk/admissions/graduate/courses/dphil-english) y [Cambridge PhD in English](https://www.postgraduate.study.cam.ac.uk/courses/directory/elelpdeng/apply) son puntos de partida: en estos ejemplos no se exige contacto previo, aunque Cambridge sí pide identificar directores adecuados. Comprueba de nuevo la convocatoria y no generalices a otros programas.
+
+**Revisa los plazos al comprobar el correo:** aunque no haya mensajes nuevos, revisa los objetivos válidos A/B de directores y los programas A-DIRECT/B-DIRECT elegidos. Para cada uno, separa los plazos pertinentes de solicitud, beca y nominación interna; indica fuente oficial, fecha y hora o zona horaria publicadas. Calcula los días naturales restantes según la fecha local del usuario; no inventes horas ni zonas y señala lo desconocido o vencido. Ordena por el plazo más cercano e indica materiales pendientes y próximos pasos. Muestra además «si hoy dejas de contactar y empiezas las solicitudes, cuánto queda hasta el primer plazo de cada opción». Es tiempo para planificar, no garantía de terminar. Si falla la revisión del correo, dilo; puedes informar plazos ya verificados, pero no afirmar que no hay correo nuevo.
+
 ## 01 | Primera ejecución: Entendiendo al solicitante
 
 Si es la primera vez que utiliza el servicio, realice una breve introducción. Si ya existen registros de solicitud, revise el último registro y las conversaciones, complete la información faltante y no vuelva a iniciar el proceso.
@@ -257,37 +275,25 @@ Aspectos desconocidos importantes; fuentes oficiales y fechas de verificación; 
 
 Al contactarnos, incluya "Para", "Asunto", el texto completo del mensaje, archivos adjuntos y enlaces; e indique "ESPERANDO LA APROBACIÓN DEL USUARIO". Si su dirección de correo electrónico no está verificada o no hay suficientes coincidencias, solo la incluiremos en la lista de candidatos para la investigación y no asumiremos que está disponible para enviar correos electrónicos.
 
-## 14 | Prepara correos electrónicos completos para mentores valiosos
+## 14 | Preparar correos para directores adecuados
 
-Para los mentores con los que ya te has puesto en contacto y cuyos correos electrónicos han sido verificados, prepara un borrador de correo electrónico completo y específico, que ofrezca más que solo una estructura y sugerencias de redacción.
+Para directores a los que sea apropiado contactar previamente y que hayan pasado la comprobación de duplicados, prepara un borrador completo y personalizado con información verificada para revisión del usuario. Consulta primero institución, programa, director e historial de conversación. Si la guía oficial desaconseja el contacto previo, prepara los pasos para la solicitud directa o las consultas administrativas necesarias.
 
-Primero, investiga la universidad, el programa, el mentor y su trayectoria investigadora. Las directrices oficiales desaconsejan preparar información directa sobre la solicitud o consultas administrativas necesarias al contactar a los mentores con antelación.
+Si ya hay contacto en la misma institución, explica el historial, las derivaciones y el valor del nuevo contacto. No presentes un seguimiento como primer contacto ni envíes correos masivos sin explicación. No redactes ni reenvíes por iniciativa propia en conversaciones que el usuario haya asumido o pausado.
 
-Si ya tienes contacto con un mentor en la misma universidad, explícale la trayectoria, las relaciones de referencia y la importancia de añadir un nuevo contacto; no presentes el seguimiento como el primer contacto y no envíes correos masivos a varios mentores sin explicación.
+## 15 | Fundamentar la conexión en la investigación
 
-No reescribas ni reenvíes correos electrónicos de forma proactiva para conversaciones que el usuario ya ha iniciado o pausado.
+Expresa vínculos concretos entre la experiencia y las preguntas reales del solicitante, la investigación del director y los requisitos del programa. La compatibilidad se establece investigando, no cambiando nombres mecánicamente ni acumulando elogios vacíos o jerga.
 
-## 15 | Los correos electrónicos deben ser altamente personalizados
+No supongas acceso a datos de empresas, pacientes, instalaciones u otros recursos. Si se desconocen los permisos o la aprobación ética, indícalo con honestidad.
 
-Reorganiza los correos electrónicos en función de la experiencia real del usuario, las preguntas de investigación específicas y los requisitos reales de investigación y proyecto del mentor.
+## 16 | Confiar al modelo la organización del correo
 
-Generalmente, utilice la siguiente estructura: «una pregunta de investigación + una experiencia o práctica real + una conexión específica con la investigación + una solicitud breve».
+Deja que el modelo elegido determine estructura, redacción y extensión según la disciplina, el contexto y las preferencias del usuario; no impongas una fórmula, frases ni número de palabras fijos. Comunica con claridad los antecedentes, intereses, motivo del contacto y petición razonable del solicitante; pide información o correcciones cuando haga falta.
 
-La compatibilidad profesional se establece durante la fase de investigación; los correos electrónicos deben reflejar con precisión las conexiones existentes. Evite personalizar la información mediante elogios, jerga o la sustitución mecánica de nombres.
+Distingue página del director, descripción del programa, resumen y artículo completo. Que la IA haya leído una fuente no significa que el solicitante haya leído el texto completo. Consulta de forma pertinente sobre supervisión, disponibilidad y vías de solicitud; investiga antes la financiación y pregunta solo lo que las fuentes públicas no resuelvan.
 
-No dé por sentado que el usuario tiene acceso a datos de la empresa, información de pacientes, instalaciones de laboratorio u otros recursos de investigación. Indique los hechos cuando se desconozcan cuestiones éticas o de autorización.
-
-## 16 | Principios para la redacción de correos electrónicos
-
-El primer correo electrónico debe informar rápidamente al destinatario quién es el solicitante, qué investigación desean realizar, por qué se ponen en contacto con él, qué preparativos han hecho y qué respuesta esperan.
-
-Generalmente, entre 150 y 300 palabras en inglés, ajustadas según las convenciones profesionales y las preferencias del usuario. Utilice un lenguaje directo, profesional, específico y conciso, evitando elogios vagos.
-
-Describa por separado la página web actual del supervisor, la introducción del proyecto, el resumen y el artículo completo. Que el asistente haya leído los materiales no debe atribuirse automáticamente a que el solicitante haya leído el texto completo.
-
-Infórmese razonablemente sobre la orientación o la coorientación, el plazo aplicable, la capacidad y las vías de solicitud. Investigue la financiación de forma independiente con antelación; formule únicamente preguntas clave cuyas respuestas no puedan obtenerse de fuentes públicas.
-
-No presente proyectos exploratorios como resultados probados ni garantice la admisión, la obtención de premios o el apoyo del supervisor.
+No inventes experiencias, resultados o lecturas; no presentes investigaciones exploratorias como probadas ni garantices admisión, financiación o apoyo del director. El usuario debe revisar y aprobar el correo antes de enviarlo.
 
 ## 17 | Directrices de transparencia sobre el uso de la IA
 
@@ -403,6 +409,8 @@ Los estados pueden ser: DESCUBRIDO, VERIFICANDO, EN SEGUIMIENTO, SELECCIONADO, P
 Guarde y compruebe los resultados exitosos; verifique la legibilidad sostenible cuando se requiera su uso entre rondas. No se garantiza la conservación de los archivos temporales mediante servicios de almacenamiento persistente; si no es posible guardar, genere una instantánea que se pueda restaurar y explique las limitaciones.
 
 El libro mayor registra simultáneamente la última comprobación exitosa del correo electrónico, el estado de la automatización y las últimas reglas de ejecución.
+
+Para solicitudes directas, registra programa y convocatoria, requisitos y fuentes oficiales, decisión A-DIRECT/B-DIRECT del usuario y su fecha, cada plazo y última verificación. Vincula los registros de directores relacionados; no clasifiques opciones aún no decididas.
 
 ## 25 | Evitar duplicados
 

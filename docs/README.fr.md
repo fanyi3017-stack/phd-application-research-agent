@@ -14,6 +14,36 @@ Un prompt open source pour rechercher des directeurs de thèse, vérifier les fi
 
 > Le processus quotidien entièrement automatisé exige une plateforme prenant en charge l’automatisation planifiée et la messagerie : connexion, lecture, rédaction et envoi avec votre autorisation. Vous approuvez chaque envoi. La recherche web, la lecture de fichiers et la conservation des dossiers doivent aussi fonctionner.
 
+## À toutes les personnes qui candidatent en doctorat
+
+> Avant de commencer vos candidatures en PhD, demandez-vous au fond de vous si faire un doctorat correspond vraiment à votre propre désir. Quand nous entreprenons quelque chose, prenons le temps de nous demander si c’est vraiment ce que nous voulons.
+>
+> En accomplissant votre candidature vous-même plutôt qu’avec une agence, le moment où vous recevrez une offre sera incroyablement heureux. Avec le temps, les moments d’euphorie se font de plus en plus rares ; alors essayez de rendre votre joie encore plus joyeuse.
+>
+> Une agence vous aide à faire quelque chose que vous êtes déjà capable de faire. Vous êtes déjà formidable ! Vous pouvez y arriver.
+>
+> — Yi Fan
+
+## Notre approche
+
+Nous privilégions un processus complet reliant recherche, vérification, prise de contact et candidatures. Les modèles progressent : nous faisons confiance à leur capacité rédactionnelle sans imposer de modèle ni de longueur fixes. Votre recherche, vos préférences et votre jugement orientent le résultat.
+
+- **Quand candidater :** au départ, 8 à 10 réponses A/B valides de directeurs différents sont proposées comme repère pour envisager d’arrêter les nouveaux contacts et de candidater. Vous pouvez l’ajuster ; une échéance urgente ne doit pas attendre.
+- **Candidatures directes :** les programmes sans accord préalable obligatoire d’un directeur sont étudiés puis classés A-DIRECT ou B-DIRECT selon votre choix, séparément des réponses des directeurs.
+- **Échéances quotidiennes :** la consultation des courriels affiche aussi les dates de candidature et de financement, le temps restant et le temps disponible si vous commencez aujourd’hui.
+
+## Exécution dans le cloud recommandée
+
+**Nous recommandons fortement les tâches planifiées dans le cloud de ChatGPT Work**, par exemple depuis Work sur le Web ou mobile à 10 h chaque jour. Elles ne nécessitent pas que votre ordinateur soit allumé. Vérifiez d’abord que votre compte permet la planification et que la tâche accède réellement au Web, à la messagerie autorisée, au suivi et aux fichiers nécessaires. Vous approuvez toujours les courriels avant leur envoi.
+
+Avec Codex en **local**, un ordinateur éteint ou en veille peut empêcher l’exécution à l’heure prévue ; il en va de même des tâches locales de Work sur ordinateur. Codex Cloud est aussi une option cloud, sous réserve de vérifier la planification et l’accès au courriel.
+
+Vérifiez l’accès aux fichiers : une tâche planifiée créée dans un projet ChatGPT ne peut pas accéder directement aux fichiers chargés ou stockés dans ce projet. Placez les données à un endroit accessible et testez ; réglez le fuseau horaire, effectuez un essai réel et vérifiez la prochaine exécution et le rapport. Les fonctions varient selon le compte, l’offre et l’espace de travail.
+
+Par exemple, essayez un fichier cloud ou un service connecté autorisé pour le suivi et vérifiez que la tâche peut lire et mettre à jour le même document.
+
+Documentation officielle : [ChatGPT Work et Codex](https://help.openai.com/en/articles/20001275/) · [Tâches planifiées dans ChatGPT](https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt) · [Codex Cloud](https://help.openai.com/en/articles/20001545-using-codex-cloud)
+
 ## Fonctionnalités
 
 - Rechercher des directeurs et vérifier les preuves d’adéquation.

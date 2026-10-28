@@ -14,6 +14,36 @@ Un prompt de código abierto para investigar directores de doctorado, comprobar 
 
 > Para el flujo diario completo, la plataforma debe admitir automatización programada e integración de correo: conectarse, leer, redactar y enviar mensajes con tu autorización. Tú apruebas cada envío. También deben funcionar la búsqueda web, la lectura de archivos y el almacenamiento persistente.
 
+## A quienes solicitan un doctorado
+
+> Antes de empezar a solicitar un PhD, pregúntate de corazón si hacerlo es realmente lo que tú quieres. Cuando hacemos algo, conviene volver a preguntarnos si de verdad queremos hacerlo por decisión propia.
+>
+> Cuando completes la solicitud por ti mismo, sin una agencia, el momento en que recibas una oferta será increíblemente feliz. A medida que avanza el tiempo, los momentos de euforia van siendo menos frecuentes; por eso, intenta hacer que tu alegría sea aún más alegre.
+>
+> Una agencia te ayuda a hacer algo que tú ya eres capaz de hacer. ¡Ya eres increíble! Puedes hacerlo.
+>
+> — Yi Fan
+
+## Nuestra postura
+
+Nos importa un flujo completo que conecte investigación, verificación, contacto y solicitudes. Los modelos mejoran; confiamos en su capacidad de escritura y no imponemos plantillas ni extensiones fijas. Tu investigación, preferencias y criterio orientan el resultado.
+
+- **Cuándo solicitar:** al empezar, se sugieren 8–10 respuestas A/B válidas de distintos directores como referencia para valorar el paso de nuevos contactos a solicitudes. Puedes cambiarla; los plazos urgentes no esperan.
+- **Las solicitudes directas también son opciones:** se investigan programas que no exigen consentimiento previo de un director y se pregunta si quieres incluirlos como A-DIRECT o B-DIRECT, por separado de las respuestas.
+- **Plazos diarios:** al revisar el correo se muestran los plazos de solicitud y financiación, el tiempo restante y cuánto queda si empiezas hoy a preparar cada solicitud.
+
+## Recomendamos ejecutar en la nube
+
+**Recomendamos encarecidamente las tareas programadas en la nube de ChatGPT Work**, por ejemplo desde Work en la web o el móvil a las 10:00 cada día. La tarea en la nube no depende de que el ordenador esté encendido. Verifica primero que tu cuenta admita programación y que la tarea pueda acceder a la web, al correo autorizado, a los registros y a los archivos necesarios. Tú apruebas los mensajes antes del envío.
+
+Si usas Codex **local**, un ordenador apagado o en suspensión puede impedir la ejecución puntual; lo mismo ocurre con tareas locales de Work en escritorio. Codex Cloud también es una opción en la nube, pero debes verificar programación y correo.
+
+Comprueba en particular el acceso a archivos: las tareas programadas creadas en un proyecto de ChatGPT no pueden acceder directamente a los archivos cargados o guardados en ese proyecto. Guarda los registros donde la tarea pueda acceder y haz una prueba real; configura la zona horaria y revisa la próxima ejecución y el informe. Las funciones dependen de la cuenta, el plan y el espacio de trabajo.
+
+Por ejemplo, prueba un archivo en la nube o servicio conectado autorizado para los registros y verifica que la tarea pueda leer y actualizar el mismo archivo.
+
+Documentación oficial: [ChatGPT Work y Codex](https://help.openai.com/en/articles/20001275/) · [Tareas programadas en ChatGPT](https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt) · [Codex Cloud](https://help.openai.com/en/articles/20001545-using-codex-cloud)
+
 ## Qué hace
 
 - Investiga directores y comprueba evidencias concretas de afinidad.
