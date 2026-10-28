@@ -55,7 +55,9 @@ Offizielle Hinweise: [ChatGPT Work und Codex](https://help.openai.com/en/article
 1. Wähle ein verfügbares Modell auf deiner KI-Plattform.
 2. Kopiere den vollständigen Prompt in eine neue Unterhaltung oder ein neues Projekt.
 3. Teile Forschungsthema, Zielregionen, Startjahr, Finanzierungsbedarf und CV mit – auch schrittweise.
-4. Prüfe und autorisiere Automatisierung und E-Mail; kontrolliere täglich den Fortschritt.
+4. Zeitplanung und E-Mail-Zugriff prüfen und freigeben. Nach der Einrichtung liefert die KI planmäßig einen Tagesbericht; prüfen Sie ihn, geben Sie E-Mails frei und entscheiden Sie über die nächsten Schritte.
+
+Die geplante Aufgabe liefert den Tagesbericht zum vereinbarten Zeitpunkt; aktivieren Sie bei Bedarf Push- oder E-Mail-Benachrichtigungen in ChatGPT. Auch ohne neue Antworten enthält der Bericht Fortschritt und Fristen. Ohne Automatisierung starten Sie die Arbeit manuell.
 
 ## Modelle und Plattformen
 

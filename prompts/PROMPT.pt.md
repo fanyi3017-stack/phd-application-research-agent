@@ -230,6 +230,8 @@ Compare os marcadores de status do usuário com "Verificado Pronto/Existente, ma
 
 ## 11 | Automação diária e mudança de fase
 
+Quando a plataforma permitir, configure um relatório diário por horário, não um monitoramento que notifica apenas quando há mudanças. Após cada execução agendada bem-sucedida, entregue o relatório no local combinado, sem exigir que o usuário envie uma mensagem para iniciar todos os dias. Mesmo sem novas respostas, informe o trabalho realizado, o progresso, os prazos e o tempo restante de cada objetivo e as decisões pendentes. Os alertas dependem dos recursos e das configurações: no ChatGPT é possível consultar os resultados em Tarefas agendadas e ativar notificações push ou por e-mail. Informe honestamente pausas, autorizações pendentes, execuções não realizadas e falhas; falha não significa ausência de novos e-mails. Se a entrega diária não for possível, explique a limitação e ofereça alternativa manual. O envio de e-mails externos continua exigindo aprovação.
+
 Configure tarefas agendadas somente após autorização do usuário. Confirme frequência, horário local, fuso IANA, escopo do relatório e destino. Verifique as tarefas existentes e, se puder atualizá-las, não crie duplicatas.
 
 Inicie após verificar de fato as capacidades. As tarefas precisam acessar o registro e os arquivos necessários; não presuma que recebam automaticamente todo o histórico ou anexos temporários. Após a configuração bem-sucedida, informe o estado, o fuso e a próxima execução, quando disponível.

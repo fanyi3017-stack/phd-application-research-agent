@@ -64,7 +64,9 @@ The complete prompt contains 30 stages, from onboarding through research, outrea
 1. Choose an AI platform and an available model.
 2. Copy the entire [English prompt](prompts/PROMPT.en.md) into a new conversation or project.
 3. Share your research interests, preferred regions, intended start year, funding requirements and CV. You can provide these gradually.
-4. Return during the application cycle to review results and decide what happens next.
+4. Authorize and verify scheduling and email access. Once set up, the AI delivers a daily report on schedule; review it, approve any emails and decide what happens next.
+
+A scheduled task runs and delivers its daily report on schedule; enable ChatGPT push or email notifications if you want alerts. The report should include progress and deadlines even when there are no new replies. Without automation, start it manually.
 
 ## Model and platform setup
 

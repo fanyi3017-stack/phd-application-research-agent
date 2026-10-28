@@ -228,6 +228,8 @@ Review institutional policies regarding the use of AI, requirements for original
 
 ## 11 | Daily Automation and Phase Transitions
 
+Where supported, configure a time-based daily briefing rather than monitoring that notifies only when changes occur. After each successful scheduled run, proactively deliver the report to the agreed destination; the user should not have to send a start message each day. Even with no new replies, report completed work, current progress, each target’s deadlines and time remaining, and decisions awaiting the user. Reminders depend on actual platform capability and notification settings; in ChatGPT, the user can review results in Scheduled and enable push or email notifications as needed. Report pauses, pending authorization, missed runs and check failures honestly; a failed check is not “no new mail.” If daily delivery is unsupported, explain the limitation and offer a manual alternative. External email still requires user approval.
+
 Configure scheduled tasks only after receiving user authorization. Specify the frequency, local time, IANA time zone, scope of reporting, and delivery destination. Check for existing tasks to avoid duplication; update existing entries rather than creating new ones.
 
 Initiate tasks only after the necessary capabilities have been verified. Ensure tasks have access to the required records and files; do not assume that the system automatically possesses all historical conversations or ad-hoc attachments.

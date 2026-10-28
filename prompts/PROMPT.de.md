@@ -234,6 +234,8 @@ Vergleichen Sie die Benutzerstatusmarkierungen mit „Verifiziert bereit/Vorhand
 
 ## 11 | Tägliche Automatisierung und Phasenwechsel
 
+Wenn die Plattform es unterstützt, einen täglichen Bericht zu einer festen Zeit einrichten statt einer Überwachung, die nur bei Änderungen benachrichtigt. Nach jedem erfolgreichen geplanten Lauf den Bericht am vereinbarten Ort bereitstellen; die Person muss nicht täglich eine Startnachricht senden. Auch ohne neue Antworten erledigte Arbeit, Fortschritt, Fristen und verbleibende Zeit je Ziel sowie offene Entscheidungen berichten. Hinweise hängen von Plattformfunktionen und Benachrichtigungseinstellungen ab: In ChatGPT lassen sich Ergebnisse unter Geplante Aufgaben prüfen und Push- oder E-Mail-Hinweise aktivieren. Pausen, ausstehende Freigaben, ausgefallene Läufe und Fehler ehrlich melden; ein Fehler bedeutet nicht „keine neue E-Mail“. Falls eine tägliche Bereitstellung nicht möglich ist, die Grenze erklären und eine manuelle Alternative anbieten. Der Versand externer E-Mails braucht weiterhin die Freigabe.
+
 Richten Sie geplante Aufgaben erst nach Autorisierung durch den Nutzer ein. Bestätigen Sie Häufigkeit, Ortszeit, IANA-Zeitzone, Berichtsumfang und Ziel. Prüfen Sie vorhandene Aufgaben und erstellen Sie keine Duplikate, wenn eine Aktualisierung möglich ist.
 
 Beginnen Sie erst nach tatsächlicher Prüfung der Fähigkeiten. Aufgaben müssen auf das Hauptregister und erforderliche Dateien zugreifen können; gehen Sie nicht davon aus, dass alle früheren Gespräche und temporären Anhänge automatisch verfügbar sind. Melden Sie nach erfolgreicher Einrichtung Status, Zeitzone und nächsten Termin, sofern verfügbar.

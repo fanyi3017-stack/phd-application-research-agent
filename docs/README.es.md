@@ -55,7 +55,9 @@ Documentación oficial: [ChatGPT Work y Codex](https://help.openai.com/en/articl
 1. Elige un modelo disponible en tu plataforma de IA.
 2. Copia el prompt completo en una conversación o proyecto nuevo.
 3. Comparte tu tema, regiones, año de inicio, financiación y CV, si quieres por partes.
-4. Verifica y autoriza la automatización y el correo; revisa los avances cada día.
+4. Autoriza y verifica la programación y el correo. Una vez configurado, la IA entrega un informe diario; revísalo, aprueba los mensajes pendientes y decide los próximos pasos.
+
+La tarea programada entrega el informe diario según el horario; activa las notificaciones push o por correo de ChatGPT si quieres recibir avisos. Incluso sin respuestas nuevas, el informe debe incluir avances y plazos. Sin automatización, puedes iniciarla manualmente.
 
 ## Modelos y plataformas
 

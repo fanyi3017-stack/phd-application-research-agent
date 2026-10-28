@@ -234,6 +234,8 @@ Comparez les indicateurs de statut utilisateur à « Vérifié, prêt », « 
 
 ## 11 | Automatisation quotidienne et changement de phase
 
+Lorsque la plateforme le permet, configurez un rapport quotidien à heure fixe plutôt qu’une surveillance qui n’avertit qu’en cas de changement. Après chaque exécution planifiée réussie, remettez le rapport à l’endroit convenu, sans exiger que l’utilisateur envoie chaque jour un message de démarrage. Même sans nouvelle réponse, indiquez le travail accompli, l’avancement, les échéances et le temps restant pour chaque objectif, ainsi que les décisions en attente. Les alertes dépendent des fonctions et des réglages : dans ChatGPT, les résultats sont consultables dans Tâches planifiées et les notifications push ou par courriel peuvent être activées. Signalez honnêtement pause, autorisation en attente, exécution manquée ou échec ; un échec ne signifie pas absence de nouveaux messages. Si la remise quotidienne n’est pas possible, expliquez la limite et proposez une solution manuelle. L’envoi de courriels externes exige toujours l’approbation de l’utilisateur.
+
 Configurez les tâches planifiées uniquement après autorisation de l’utilisateur. Confirmez fréquence, heure locale, fuseau IANA, périmètre du rapport et destination. Vérifiez les tâches existantes et, si elles peuvent être mises à jour, ne créez pas de doublons.
 
 Démarrez après vérification effective des capacités. Les tâches doivent accéder au registre et aux fichiers nécessaires ; ne supposez pas qu’elles reçoivent automatiquement toutes les conversations ou pièces jointes temporaires. En cas de succès, indiquez fidèlement le statut, le fuseau et la prochaine exécution si elle est disponible.

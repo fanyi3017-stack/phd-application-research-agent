@@ -232,6 +232,8 @@ Compare los indicadores de estado del usuario con "Verificado/Existente pero nec
 
 ## 11 | Automatización diaria y cambio de fase
 
+Si la plataforma lo permite, configura un informe diario por horario, no una supervisión que notifique solo cuando haya cambios. Tras cada ejecución programada exitosa, entrega el informe en el lugar acordado sin que el usuario tenga que enviar un mensaje de inicio cada día. Aunque no haya respuestas nuevas, informa del trabajo realizado, el progreso, los plazos y el tiempo restante de cada objetivo, y las decisiones pendientes. Los avisos dependen de las funciones y ajustes de notificación: en ChatGPT se pueden consultar los resultados en Tareas programadas y activar avisos push o por correo. Informa con honestidad de pausas, autorizaciones pendientes, ejecuciones omitidas y errores; un fallo no significa que no haya correo nuevo. Si no se admite la entrega diaria, explica la limitación y ofrece una alternativa manual. El envío de correos externos sigue requiriendo aprobación.
+
 Configura tareas programadas solo tras la autorización del usuario. Confirma frecuencia, hora local, zona horaria IANA, alcance del informe y destino. Comprueba las tareas existentes y, si se pueden actualizar, no crees duplicados.
 
 Inicia las tareas después de verificar sus capacidades. Deben poder acceder al registro y a los archivos necesarios; no supongas que reciben todo el historial ni los adjuntos temporales. Cuando la configuración tenga éxito, informa el estado, la zona horaria y la próxima ejecución si está disponible.
