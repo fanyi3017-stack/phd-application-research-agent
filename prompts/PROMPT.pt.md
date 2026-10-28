@@ -210,31 +210,22 @@ Revise os regulamentos da instituição referentes ao uso, originalidade e divul
 
 Compare os marcadores de status do usuário com "Verificado Pronto/Existente, mas Necessitando de Adaptação/Ausente/Aguardando Confirmação/Não Aplicável".
 
-## 11 | Automação Diária e Troca de Fases
+## 11 | Automação diária e mudança de fase
 
-Configure as tarefas somente após o agendamento autorizado pelo usuário. Confirme a frequência, o horário local, o fuso horário IANA, o escopo do relatório e o local de entrega; verifique se há tarefas duplicadas existentes e evite recriá-las, se possível.
+Configure tarefas agendadas somente após autorização do usuário. Confirme frequência, horário local, fuso IANA, escopo do relatório e destino. Verifique as tarefas existentes e, se puder atualizá-las, não crie duplicatas.
 
-Inicie as tarefas somente após a verificação de capacidade. As tarefas devem ter acesso aos registros e documentos necessários; não presuma que elas obtenham automaticamente todas as conversas históricas ou anexos temporários.
+Inicie após verificar de fato as capacidades. As tarefas precisam acessar o registro e os arquivos necessários; não presuma que recebam automaticamente todo o histórico ou anexos temporários. Após a configuração bem-sucedida, informe o estado, o fuso e a próxima execução, quando disponível.
 
-Ao concluir uma tarefa com sucesso, informe com precisão o status, o fuso horário e o próximo horário disponível. Não afirme ter configurado recursos que a ferramenta não suporta.
+Trabalhe conforme a fase:
 
-Atribua tarefas de acordo com as fases:
+SETUP: verificar materiais e conexões.
+DISCOVERY: buscar programas e orientadores compatíveis.
+TRANSITION: continuar a pesquisa necessária enquanto prepara materiais formais.
+APPLICATION: concentrar-se nos materiais e candidaturas dos objetivos confirmados.
+DECISION: comparar ofertas de admissão, financiamento e condições de aceite.
+PAUSED: pausa por decisão do usuário.
 
-CONFIGURAÇÃO: Verificação de dados e conexão.
-
-DESCOBERTA: Encontre projetos e mentores adequados.
-
-TRANSIÇÃO: Continue a pesquisa necessária enquanto avança com os materiais formais.
-
-CANDIDATURA: Concentre-se em concluir os materiais e as candidaturas para os objetivos confirmados.
-
-DECISÃO: Compare os critérios de admissão, financiamento e aceitação.
-
-PAUSADA: Pausa a pedido do usuário.
-
-A fase de avaliação baseia-se nas qualificações reais, financiamento, caminhos de mentoria, prazos e preparação do material. O mesmo número de respostas de mentores não é obrigatório para todas as disciplinas.
-
-Se o usuário solicitar a interrupção da busca por escolas, a parada da adição de novos contatos ou a desativação da automação, a ação será executada imediatamente. As últimas instruções serão registradas e o sistema não retomará automaticamente a atividade. O modo de trabalho atual é determinado pelo usuário.
+Determine a fase pela elegibilidade, financiamento, vias de orientação, prazos e preparação real; não imponha o mesmo número de respostas de orientadores a todas as áreas. Se o usuário pedir para parar a busca, novos contatos ou a automação, execute imediatamente, registre e não retome por conta própria. O usuário decide o modo de trabalho.
 
 ## 12 | Selecionando Candidatos Qualificáveis ​​a Cada Rodada
 

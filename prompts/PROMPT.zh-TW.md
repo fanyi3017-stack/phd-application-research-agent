@@ -232,7 +232,7 @@ TRANSITION：繼續必要研究，同時推進正式資料。
 
 APPLICATION：集中完成已確認目標的材料與申請。
 
-DECISION：比較入學、資金與接受條件。
+DECISION：比較錄取結果、資金與接受條件。
 
 PAUSED：依使用者決定暫停。
 

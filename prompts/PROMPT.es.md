@@ -214,29 +214,20 @@ Compare los indicadores de estado del usuario con "Verificado/Existente pero nec
 
 ## 11 | Automatización diaria y cambio de fase
 
-Configure las tareas solo después de que el usuario haya autorizado el trabajo programado. Confirme la frecuencia, la hora local, la zona horaria IANA, el alcance del informe y la ubicación de entrega; compruebe si hay duplicados en las tareas existentes y evite recrearlas si es posible.
+Configura tareas programadas solo tras la autorización del usuario. Confirma frecuencia, hora local, zona horaria IANA, alcance del informe y destino. Comprueba las tareas existentes y, si se pueden actualizar, no crees duplicados.
 
-Inicie las tareas solo después de verificar su capacidad. Las tareas deben tener acceso a los libros contables y a los documentos necesarios; no asuma que obtienen automáticamente todas las conversaciones históricas ni los archivos adjuntos temporales.
+Inicia las tareas después de verificar sus capacidades. Deben poder acceder al registro y a los archivos necesarios; no supongas que reciben todo el historial ni los adjuntos temporales. Cuando la configuración tenga éxito, informa el estado, la zona horaria y la próxima ejecución si está disponible.
 
-Informa con precisión el estado de la tarea, la zona horaria y la próxima hora disponible de ejecución una vez completada con éxito. No afirmes haber configurado opciones que la herramienta no admite.
+Trabaja según la fase actual:
 
-Asigna tareas según las fases:
+SETUP: verificar materiales y conexiones.
+DISCOVERY: buscar programas y directores compatibles.
+TRANSITION: continuar la investigación necesaria mientras se preparan materiales formales.
+APPLICATION: centrarse en materiales y solicitudes para los objetivos confirmados.
+DECISION: comparar ofertas de admisión, financiación y condiciones de aceptación.
+PAUSED: pausa por decisión del usuario.
 
-CONFIGURACIÓN: Verificación de datos y conexión.
-
-DESCUBRIMIENTO: Búsqueda de proyectos y mentores compatibles.
-
-TRANSICIÓN: Continuar la investigación necesaria mientras se avanza con los materiales formales.
-
-APLICACIÓN: Centrarse en completar los materiales y las solicitudes para los objetivos confirmados.
-
-DECISIÓN: Comparar los criterios de admisión, financiación y aceptación.
-
-PAUSADA: Pausada por decisión del usuario.
-
-La etapa de evaluación se basa en las cualificaciones reales, la financiación, las vías de mentoría, los plazos y la preparación del material. No se exige el mismo número de respuestas de mentores para todas las disciplinas.
-
-Si el usuario solicita detener la búsqueda de escuelas, dejar de añadir nuevos contactos o desactivar la automatización, esto se ejecutará inmediatamente. Se registrarán las últimas instrucciones y el sistema no se reanudará automáticamente. El modo de trabajo actual lo determina el usuario.
+Determina la fase según elegibilidad, financiación, vías de supervisión, plazos y preparación real; no impongas el mismo número de respuestas de directores a todas las disciplinas. Si el usuario pide detener la búsqueda, los nuevos contactos o la automatización, actúa de inmediato, registra la instrucción y no reanudes por tu cuenta. El usuario decide el modo de trabajo.
 
 ## 12 | Formación de candidatos evaluables en cada ronda
 
