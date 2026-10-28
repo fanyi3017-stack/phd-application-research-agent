@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="PhD Application Research Agent — research, funding and outreach" width="100%" />
+  <img src="assets/banner.jpg" alt="PhD Application Research Agent — research, funding and outreach" width="100%" />
 </p>
 
 <p align="center"><strong>Skip the bullshit admissions middlemen. Apply for a PhD with AI.</strong></p>

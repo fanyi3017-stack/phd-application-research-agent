@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="PhD Application Research Agent — research, funding and outreach" width="100%" />
+  <img src="assets/banner.jpg" alt="PhD Application Research Agent — research, funding and outreach" width="100%" />
 </p>
 
 <p align="center"><strong>告别傻逼的申请中介，自己和 AI 一起申请 PhD 吧。</strong></p>
