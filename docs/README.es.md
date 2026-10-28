@@ -65,6 +65,17 @@ Usa ChatGPT, Claude, Gemini, Kimi, DeepSeek u otra herramienta que admita prompt
 
 Traducción asistida por IA con revisión de las reglas clave. Ante dudas, consulta el original en chino simplificado. Se agradecen correcciones.
 
+
+## Alcance y comunidad
+
+El proyecto se centra en investigar y contactar a posibles directores. Si las conversaciones avanzan bien, un director puede orientar tu propuesta y posteriores solicitudes, incluidas becas; el apoyo depende de su respuesta. Si tienes dudas, únete a nuestro grupo de WeChat para conversar con otros solicitantes. Contacto y acceso: [yifan@curatingmyatery.com](mailto:yifan@curatingmyatery.com).
+
+## Agradecimientos
+
+Gracias a OpenAI por sus herramientas y tecnología, a quienes contribuyen código, documentación, plugins y solución de problemas, y a la comunidad por sus comentarios. 护谜（上海）智能科技有限公司 aportó capacidad de cómputo para el desarrollo con Codex.
+
+Copyright © 2026 护谜（上海）智能科技有限公司
+
 ## Licencia
 
 [MIT License](../LICENSE) · Yi Fan

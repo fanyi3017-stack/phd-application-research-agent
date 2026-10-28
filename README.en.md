@@ -82,6 +82,17 @@ Open an [issue](https://github.com/fanyi3017-stack/phd-application-research-agen
 
 Translations are AI-assisted; key rules have been checked. If meanings differ, refer to the simplified Chinese original. Corrections are welcome.
 
+
+## Scope and community
+
+This project focuses on supervisor research and outreach. If your conversations go well, a supervisor may be willing to advise on your research proposal and later applications, including scholarships; support depends on their actual response. If you are unsure about something, join our WeChat community to discuss it with fellow applicants. Contact and group access: [yifan@curatingmyatery.com](mailto:yifan@curatingmyatery.com).
+
+## Acknowledgements
+
+Thanks to OpenAI for its tools and technology; to everyone contributing code, documentation, plugins and troubleshooting; and to community members sharing feedback and results. 护谜（上海）智能科技有限公司 contributed Codex development compute.
+
+Copyright © 2026 护谜（上海）智能科技有限公司
+
 ## License
 
 [MIT License](LICENSE) · Yi Fan

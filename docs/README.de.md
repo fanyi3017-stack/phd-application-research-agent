@@ -65,6 +65,17 @@ Nutze ChatGPT, Claude, Gemini, Kimi, DeepSeek oder ein anderes Tool für lange P
 
 KI-gestützte Übersetzung mit Prüfung der wichtigsten Regeln. Bei Abweichungen gilt das chinesische Original; Korrekturen sind willkommen.
 
+
+## Umfang und Gemeinschaft
+
+Das Projekt konzentriert sich auf die Recherche und Kontaktaufnahme zu Betreuungspersonen. Wenn die Gespräche gut verlaufen, können diese möglicherweise bei Forschungsvorhaben und späteren Bewerbungen, einschließlich Stipendien, beraten; die Unterstützung hängt von ihrer tatsächlichen Antwort ab. Bei Fragen tauschen Sie sich in unserer WeChat-Gruppe mit anderen Bewerbenden aus. Kontakt und Zugang: [yifan@curatingmyatery.com](mailto:yifan@curatingmyatery.com).
+
+## Danksagung
+
+Danke an OpenAI für Werkzeuge und Technologie, an alle Mitwirkenden bei Code, Dokumentation, Plugins und Problemlösung sowie an die Community für Rückmeldungen. 护谜（上海）智能科技有限公司 stellte Rechenleistung für die Entwicklung mit Codex bereit.
+
+Copyright © 2026 护谜（上海）智能科技有限公司
+
 ## Lizenz
 
 [MIT License](../LICENSE) · Yi Fan

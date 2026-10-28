@@ -65,6 +65,17 @@ Utilisez ChatGPT, Claude, Gemini, Kimi, DeepSeek ou un autre outil acceptant les
 
 Traduction assistée par IA avec vérification des règles essentielles. En cas de divergence, consultez l’original en chinois simplifié. Les corrections sont bienvenues.
 
+
+## Périmètre et communauté
+
+Le projet se concentre sur la recherche de directeurs et la prise de contact. Si les échanges avancent bien, un directeur pourra éventuellement conseiller votre projet de recherche et vos candidatures, notamment aux bourses ; cela dépend de sa réponse. En cas de doute, rejoignez notre groupe WeChat pour échanger avec d’autres candidats. Contact et accès : [yifan@curatingmyatery.com](mailto:yifan@curatingmyatery.com).
+
+## Remerciements
+
+Merci à OpenAI pour ses outils et sa technologie, aux contributeurs du code, de la documentation, des plugins et du dépannage, ainsi qu’à la communauté pour ses retours. 护谜（上海）智能科技有限公司 a fourni la capacité de calcul pour le développement avec Codex.
+
+Copyright © 2026 护谜（上海）智能科技有限公司
+
 ## Licence
 
 [MIT License](../LICENSE) · Yi Fan
