@@ -85,6 +85,8 @@ AIを利用した翻訳で、重要なルールを確認しています。解釈
   <a href="https://github.com/google"><img src="https://github.com/google.png?size=96" alt="Google" width="48" /></a>
 </p>
 
+このプロジェクトのプロンプトと文書は [Codex](https://github.com/codex) の協力を得て作成しました。
+
 [OpenAI](https://github.com/openai) と [Google](https://github.com/google) の AI ツールと技術、コード・文書・プラグイン・問題解決への貢献者、フィードバックをくださるコミュニティの皆さんに感謝します。[护谜（上海）智能科技有限公司](https://github.com/curatingmysteryshanghai)は Codex の開発計算資源を提供しました。
 
 

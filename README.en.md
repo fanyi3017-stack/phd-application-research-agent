@@ -102,6 +102,8 @@ If the code expires, contact us at the email above.
   <a href="https://github.com/google"><img src="https://github.com/google.png?size=96" alt="Google" width="48" /></a>
 </p>
 
+[Codex](https://github.com/codex) helped develop the prompt and documentation.
+
 Thanks to [OpenAI](https://github.com/openai) and [Google](https://github.com/google) for their AI tools and technology; to everyone contributing code, documentation, plugins and troubleshooting; and to community members sharing feedback and results. [护谜（上海）智能科技有限公司](https://github.com/curatingmysteryshanghai) contributed Codex development compute.
 
 

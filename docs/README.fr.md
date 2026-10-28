@@ -85,6 +85,8 @@ Si le code expire, écrivez-nous à l’adresse indiquée.
   <a href="https://github.com/google"><img src="https://github.com/google.png?size=96" alt="Google" width="48" /></a>
 </p>
 
+[Codex](https://github.com/codex) a contribué à la préparation du prompt et de la documentation.
+
 Merci à [OpenAI](https://github.com/openai) et [Google](https://github.com/google) pour leurs outils et technologies d’IA, aux contributeurs du code, de la documentation, des plugins et du dépannage, ainsi qu’à la communauté pour ses retours. [护谜（上海）智能科技有限公司](https://github.com/curatingmysteryshanghai) a fourni la capacité de calcul pour le développement avec Codex.
 
 
