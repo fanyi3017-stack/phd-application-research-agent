@@ -40,9 +40,9 @@ A complete workflow connects research, verification, outreach and applications. 
 
 ## Recommended: run in the cloud
 
-**We strongly recommend cloud-based scheduled tasks in ChatGPT Work**, for example using Work on the web or mobile for a daily 10:00 run. Cloud tasks do not depend on your computer being on. First verify that your account supports scheduling and that the task can actually access web research, your authorized mailbox, application records and necessary files. You still approve emails before sending.
+**We strongly recommend ChatGPT Work for this workflow**, whether on desktop, web or mobile. Desktop can also start cloud Work. If a daily 10:00 task needs to run while your computer is off, verify that the scheduled task and all required files and tools are accessible in the cloud.
 
-With **local** Codex, a shut-down or sleeping computer may prevent a scheduled run from starting on time; the same applies to local Work tasks on desktop. Codex Cloud is another cloud option and does not require your computer to stay on, but scheduling and email capabilities still need verification.
+Steps relying on local files or desktop apps may be unavailable when your computer is off or asleep. Local Codex also depends on the computer; Codex Cloud is another cloud option. Whichever you choose, verify scheduling, web access, email and application records. You still approve each email before sending.
 
 Check file access especially: scheduled tasks created in a ChatGPT project cannot directly access files uploaded to or stored in that project. Place records where the task can actually access them and test. Set the time zone, run a real test and check the next run and report. Features vary by account, plan and workspace.
 

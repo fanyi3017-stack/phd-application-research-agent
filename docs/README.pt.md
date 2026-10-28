@@ -34,9 +34,9 @@ Valorizamos um fluxo completo que conecta pesquisa, verificação, contato e can
 
 ## Recomendamos executar na nuvem
 
-**Recomendamos fortemente as tarefas agendadas na nuvem do ChatGPT Work**, por exemplo no Work pela web ou celular às 10h todos os dias. Uma tarefa na nuvem não depende de seu computador estar ligado. Primeiro confirme que sua conta permite agendamento e que a tarefa realmente acessa a web, o e-mail autorizado, os registros e os arquivos necessários. Você ainda aprova as mensagens antes do envio.
+**Recomendamos fortemente o ChatGPT Work para este fluxo**, no desktop, na web ou no celular. Também é possível iniciar o Work em nuvem pelo desktop. Para uma tarefa diária às 10h funcionar com o computador desligado, confirme que a tarefa e todos os arquivos e ferramentas necessários são acessíveis na nuvem.
 
-Ao executar o Codex **localmente**, um computador desligado ou em suspensão pode impedir a execução no horário; o mesmo vale para tarefas locais do Work no desktop. O Codex Cloud também é uma opção na nuvem, mas é preciso verificar agendamento e e-mail.
+Etapas que dependem de arquivos locais ou aplicativos do computador podem não estar disponíveis quando ele estiver desligado ou em suspensão. O Codex local também depende do computador; o Codex Cloud é outra opção em nuvem. Em qualquer modalidade, verifique agendamento e acesso à web, ao e-mail e aos registros; você aprova cada mensagem antes do envio.
 
 Verifique especialmente o acesso a arquivos: tarefas agendadas criadas em um projeto do ChatGPT não acessam diretamente arquivos carregados ou armazenados nesse projeto. Guarde os registros em local acessível e teste; ajuste o fuso horário, faça uma execução real e confira a próxima execução e o relatório. Os recursos variam por conta, plano e espaço de trabalho.
 

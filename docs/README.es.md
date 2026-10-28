@@ -34,9 +34,9 @@ Nos importa un flujo completo que conecte investigación, verificación, contact
 
 ## Recomendamos ejecutar en la nube
 
-**Recomendamos encarecidamente las tareas programadas en la nube de ChatGPT Work**, por ejemplo desde Work en la web o el móvil a las 10:00 cada día. La tarea en la nube no depende de que el ordenador esté encendido. Verifica primero que tu cuenta admita programación y que la tarea pueda acceder a la web, al correo autorizado, a los registros y a los archivos necesarios. Tú apruebas los mensajes antes del envío.
+**Recomendamos encarecidamente ChatGPT Work para este flujo**, en escritorio, web o móvil. Desde escritorio también puedes iniciar Work en la nube. Si quieres que una tarea diaria a las 10:00 funcione con el ordenador apagado, comprueba que tanto la tarea como todos los archivos y herramientas necesarios sean accesibles en la nube.
 
-Si usas Codex **local**, un ordenador apagado o en suspensión puede impedir la ejecución puntual; lo mismo ocurre con tareas locales de Work en escritorio. Codex Cloud también es una opción en la nube, pero debes verificar programación y correo.
+Los pasos que dependan de archivos locales o aplicaciones de escritorio pueden no estar disponibles con el ordenador apagado o en suspensión. Codex local también depende del ordenador; Codex Cloud es otra opción en la nube. Sea cual sea la opción, verifica programación, web, correo y registros; tú apruebas cada mensaje antes de enviarlo.
 
 Comprueba en particular el acceso a archivos: las tareas programadas creadas en un proyecto de ChatGPT no pueden acceder directamente a los archivos cargados o guardados en ese proyecto. Guarda los registros donde la tarea pueda acceder y haz una prueba real; configura la zona horaria y revisa la próxima ejecución y el informe. Las funciones dependen de la cuenta, el plan y el espacio de trabajo.
 

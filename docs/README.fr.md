@@ -34,9 +34,9 @@ Nous privilégions un processus complet reliant recherche, vérification, prise 
 
 ## Exécution dans le cloud recommandée
 
-**Nous recommandons fortement les tâches planifiées dans le cloud de ChatGPT Work**, par exemple depuis Work sur le Web ou mobile à 10 h chaque jour. Elles ne nécessitent pas que votre ordinateur soit allumé. Vérifiez d’abord que votre compte permet la planification et que la tâche accède réellement au Web, à la messagerie autorisée, au suivi et aux fichiers nécessaires. Vous approuvez toujours les courriels avant leur envoi.
+**Nous recommandons fortement ChatGPT Work pour ce processus**, sur ordinateur, sur le Web ou sur mobile. Il est aussi possible de démarrer Work dans le cloud depuis l’application de bureau. Pour qu’une tâche quotidienne à 10 h fonctionne ordinateur éteint, vérifiez que la tâche et tous les fichiers et outils nécessaires sont accessibles dans le cloud.
 
-Avec Codex en **local**, un ordinateur éteint ou en veille peut empêcher l’exécution à l’heure prévue ; il en va de même des tâches locales de Work sur ordinateur. Codex Cloud est aussi une option cloud, sous réserve de vérifier la planification et l’accès au courriel.
+Les étapes dépendant de fichiers locaux ou d’applications de bureau peuvent être indisponibles si l’ordinateur est éteint ou en veille. Codex local dépend aussi de l’ordinateur ; Codex Cloud est une autre option cloud. Dans tous les cas, vérifiez la planification et l’accès au Web, à la messagerie et au suivi ; vous approuvez chaque courriel avant son envoi.
 
 Vérifiez l’accès aux fichiers : une tâche planifiée créée dans un projet ChatGPT ne peut pas accéder directement aux fichiers chargés ou stockés dans ce projet. Placez les données à un endroit accessible et testez ; réglez le fuseau horaire, effectuez un essai réel et vérifiez la prochaine exécution et le rapport. Les fonctions varient selon le compte, l’offre et l’espace de travail.
 

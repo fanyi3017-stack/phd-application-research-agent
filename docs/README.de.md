@@ -34,9 +34,9 @@ Wir setzen auf einen vollständigen Ablauf, der Recherche, Prüfung, Kontakt und
 
 ## Ausführung in der Cloud empfohlen
 
-**Wir empfehlen ausdrücklich cloudbasierte geplante Aufgaben in ChatGPT Work**, etwa täglich um 10 Uhr über Work im Web oder auf dem Smartphone. Dafür muss Ihr Computer nicht eingeschaltet sein. Prüfen Sie vorher, ob Ihr Konto geplante Aufgaben unterstützt und die Aufgabe tatsächlich auf Web, freigegebenes Postfach, Bewerbungsdaten und benötigte Dateien zugreifen kann. E-Mails geben Sie weiterhin vor dem Versand frei.
+**Wir empfehlen ChatGPT Work ausdrücklich für diesen Ablauf**, auf Desktop, im Web oder auf dem Smartphone. Auch vom Desktop aus lässt sich Cloud Work starten. Soll eine tägliche Aufgabe um 10 Uhr bei ausgeschaltetem Computer laufen, prüfen Sie, ob Aufgabe und alle benötigten Dateien und Werkzeuge in der Cloud verfügbar sind.
 
-Bei **lokalem** Codex kann ein ausgeschalteter oder schlafender Computer die pünktliche Ausführung verhindern; dasselbe gilt für lokale Work-Aufgaben auf dem Desktop. Codex Cloud ist eine weitere Cloud-Option, deren Zeitplanung und E-Mail-Funktionen ebenfalls zu prüfen sind.
+Schritte mit lokalen Dateien oder Desktop-Apps können bei ausgeschaltetem oder schlafendem Computer nicht verfügbar sein. Lokales Codex hängt ebenfalls vom Computer ab; Codex Cloud ist eine weitere Cloud-Option. Prüfen Sie unabhängig von der Variante Zeitplanung und Zugriff auf Web, E-Mail und Bewerbungsdaten. Jede E-Mail geben Sie vor dem Versand frei.
 
 Prüfen Sie besonders den Dateizugriff: In einem ChatGPT-Projekt erstellte geplante Aufgaben können nicht direkt auf dort hochgeladene oder gespeicherte Dateien zugreifen. Legen Sie Daten an einem für die Aufgabe zugänglichen Ort ab und testen Sie; stellen Sie die Zeitzone ein und prüfen Sie einen echten Lauf, den nächsten Termin und den Bericht. Funktionen hängen von Konto, Tarif und Workspace ab.
 
