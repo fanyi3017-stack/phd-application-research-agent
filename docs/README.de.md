@@ -1,6 +1,6 @@
 <p align="center"><img src="../assets/banner.jpg" alt="PhD Application Research Agent" width="100%" /></p>
 
-<h1 align="center">PhD Application Research Agent</h1>
+<h1 align="center">🎓 PhD Application Research Agent</h1>
 
 <p align="center"><strong>Schluss mit den beschissenen Bewerbungsagenturen. Bewirb dich mit KI selbst für deine Promotion.</strong></p>
 
@@ -14,7 +14,7 @@ Ein Open-Source-Prompt für die Recherche nach Promotionsbetreuung, Finanzierung
 
 > Für den vollständigen täglichen Automatikablauf muss die KI-Plattform sowohl geplante Automatisierung als auch E-Mail-Anbindung unterstützen: Sie muss nach deiner Autorisierung E-Mails lesen, entwerfen und versenden können. Jeden Versand bestätigst du selbst. Webrecherche, Dateizugriff und dauerhafte Speicherung müssen ebenfalls verfügbar sein.
 
-## An alle, die sich für eine Promotion bewerben
+## 💌 An alle, die sich für eine Promotion bewerben
 
 > Bevor du mit deinen PhD-Bewerbungen beginnst, frage dich ehrlich, ob eine Promotion wirklich dein eigener Wunsch ist. Wenn wir etwas tun, sollten wir uns immer wieder fragen, ob wir es wirklich selbst wollen.
 >
@@ -24,7 +24,7 @@ Ein Open-Source-Prompt für die Recherche nach Promotionsbetreuung, Finanzierung
 >
 > — Yi Fan
 
-## Unsere Haltung
+## 🧭 Unsere Haltung
 
 Wir setzen auf einen vollständigen Ablauf, der Recherche, Prüfung, Kontakt und Bewerbung verbindet. Modelle entwickeln sich weiter; wir vertrauen ihrer Schreibfähigkeit und schreiben keine feste Vorlage oder Wortzahl vor. Ihre Forschung, Präferenzen und Entscheidungen bestimmen das Ergebnis.
 
@@ -32,7 +32,7 @@ Wir setzen auf einen vollständigen Ablauf, der Recherche, Prüfung, Kontakt und
 - **Direkte Bewerbungen als Optionen:** Programme ohne nötige vorherige Zustimmung werden recherchiert und nach Ihrer Entscheidung als A-DIRECT oder B-DIRECT geführt, getrennt von Antworten der Betreuenden.
 - **Täglich Fristen prüfen:** Beim Prüfen der Post werden Bewerbungs- und Finanzierungsfristen, verbleibende Zeit und die Zeit bei einem Bewerbungsstart heute angezeigt.
 
-## Ausführung in der Cloud empfohlen
+## ☁️ Ausführung in der Cloud empfohlen
 
 **Wir empfehlen ChatGPT Work ausdrücklich für diesen Ablauf**, auf Desktop, im Web oder auf dem Smartphone. Auch vom Desktop aus lässt sich Cloud Work starten. Soll eine tägliche Aufgabe um 10 Uhr bei ausgeschaltetem Computer laufen, prüfen Sie, ob Aufgabe und alle benötigten Dateien und Werkzeuge in der Cloud verfügbar sind.
 
@@ -44,13 +44,13 @@ Nutzen Sie beispielsweise eine freigegebene Cloud-Datei oder einen verbundenen D
 
 Offizielle Hinweise: [ChatGPT Work und Codex](https://help.openai.com/en/articles/20001275/) · [Geplante Aufgaben in ChatGPT](https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt) · [Codex Cloud](https://help.openai.com/en/articles/20001545-using-codex-cloud)
 
-## Was der Prompt macht
+## ✨ Was der Prompt macht
 
 - Betreuende recherchieren und konkrete Belege für fachliche Passung prüfen.
 - Programme, Voraussetzungen, Fristen und Finanzierung prüfen.
 - Individuelle Kontakt-E-Mails vorbereiten und Antworten verfolgen.
 
-## Erste Schritte
+## 🚀 Erste Schritte
 
 1. Wähle ein verfügbares Modell auf deiner KI-Plattform.
 2. Kopiere den vollständigen Prompt in eine neue Unterhaltung oder ein neues Projekt.
@@ -59,14 +59,14 @@ Offizielle Hinweise: [ChatGPT Work und Codex](https://help.openai.com/en/article
 
 Die geplante Aufgabe liefert den Tagesbericht zum vereinbarten Zeitpunkt; aktivieren Sie bei Bedarf Push- oder E-Mail-Benachrichtigungen in ChatGPT. Auch ohne neue Antworten enthält der Bericht Fortschritt und Fristen. Ohne Automatisierung starten Sie die Arbeit manuell.
 
-## Modelle und Plattformen
+## ⚙️ Modelle und Plattformen
 
 Nutze ChatGPT, Claude, Gemini, Kimi, DeepSeek oder ein anderes Tool für lange Prompts. Funktionen, Limits und Kosten unterscheiden sich; ohne Automatisierung oder E-Mail-Versand erfolgen diese Schritte manuell.
 
 KI-gestützte Übersetzung mit Prüfung der wichtigsten Regeln. Bei Abweichungen gilt das chinesische Original; Korrekturen sind willkommen.
 
 
-## Umfang und Gemeinschaft
+## 💬 Umfang und Gemeinschaft
 
 Das Projekt konzentriert sich auf die Recherche und Kontaktaufnahme zu Betreuungspersonen. Wenn die Gespräche gut verlaufen, können diese möglicherweise bei Forschungsvorhaben und späteren Bewerbungen, einschließlich Stipendien, beraten; die Unterstützung hängt von ihrer tatsächlichen Antwort ab. Bei Fragen tauschen Sie sich in unserer WeChat-Gruppe mit anderen Bewerbenden aus. Kontakt und Zugang: [yifan@curatingmyatery.com](mailto:yifan@curatingmyatery.com).
 
@@ -76,12 +76,13 @@ Das Projekt konzentriert sich auf die Recherche und Kontaktaufnahme zu Betreuung
 
 Falls der Code abläuft, kontaktieren Sie uns per E-Mail.
 
-## Danksagung
+## 🙏 Danksagung
 
 Danke an OpenAI für Werkzeuge und Technologie, an alle Mitwirkenden bei Code, Dokumentation, Plugins und Problemlösung sowie an die Community für Rückmeldungen. 护谜（上海）智能科技有限公司 stellte Rechenleistung für die Entwicklung mit Codex bereit.
 
-Copyright © 2026 护谜（上海）智能科技有限公司
 
-## Lizenz
+## 📄 Lizenz
 
 [MIT License](../LICENSE) · Yi Fan
+
+<p align="center">Copyright © 2026 护谜（上海）智能科技有限公司</p>

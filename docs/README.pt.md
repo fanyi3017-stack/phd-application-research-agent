@@ -1,6 +1,6 @@
 <p align="center"><img src="../assets/banner.jpg" alt="PhD Application Research Agent" width="100%" /></p>
 
-<h1 align="center">PhD Application Research Agent</h1>
+<h1 align="center">🎓 PhD Application Research Agent</h1>
 
 <p align="center"><strong>Diga adeus aos intermediários de candidatura de merda. Candidate-se ao doutorado com IA, por conta própria.</strong></p>
 
@@ -14,7 +14,7 @@ Um prompt de código aberto para pesquisar orientadores de doutorado, verificar 
 
 > Para o processo diário totalmente automatizado, a plataforma precisa oferecer automação agendada e integração de e-mail: conectar, ler, redigir e enviar mensagens com sua autorização. Você aprova cada envio. Pesquisa na web, leitura de arquivos e armazenamento persistente também precisam funcionar.
 
-## A todas as pessoas que se candidatam a um PhD
+## 💌 A todas as pessoas que se candidatam a um PhD
 
 > Antes de começar suas candidaturas ao PhD, pergunte a si mesmo se fazer um doutorado é realmente o que você deseja. Ao fazer algo, vale voltar a perguntar se aquilo é mesmo uma vontade sua.
 >
@@ -24,7 +24,7 @@ Um prompt de código aberto para pesquisar orientadores de doutorado, verificar 
 >
 > — Yi Fan
 
-## Nossa abordagem
+## 🧭 Nossa abordagem
 
 Valorizamos um fluxo completo que conecta pesquisa, verificação, contato e candidaturas. Os modelos evoluem: confiamos na sua capacidade de escrita sem impor modelos ou tamanhos fixos. Sua pesquisa, preferências e julgamento orientam o resultado.
 
@@ -32,7 +32,7 @@ Valorizamos um fluxo completo que conecta pesquisa, verificação, contato e can
 - **Candidaturas diretas também são opções:** são pesquisados programas que não exigem consentimento prévio de orientador; após sua escolha, ficam em A-DIRECT ou B-DIRECT, separados das respostas de orientadores.
 - **Prazos diários:** ao conferir o e-mail, veja também os prazos de candidatura e financiamento, o tempo restante e quanto resta se começar hoje a preparar cada candidatura.
 
-## Recomendamos executar na nuvem
+## ☁️ Recomendamos executar na nuvem
 
 **Recomendamos fortemente o ChatGPT Work para este fluxo**, no desktop, na web ou no celular. Também é possível iniciar o Work em nuvem pelo desktop. Para uma tarefa diária às 10h funcionar com o computador desligado, confirme que a tarefa e todos os arquivos e ferramentas necessários são acessíveis na nuvem.
 
@@ -44,13 +44,13 @@ Por exemplo, teste um arquivo em nuvem ou serviço conectado autorizado para o r
 
 Documentação oficial: [ChatGPT Work e Codex](https://help.openai.com/en/articles/20001275/) · [Tarefas agendadas no ChatGPT](https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt) · [Codex Cloud](https://help.openai.com/en/articles/20001545-using-codex-cloud)
 
-## O que faz
+## ✨ O que faz
 
 - Pesquisa orientadores e verifica evidências concretas de afinidade.
 - Verifica programas, requisitos, prazos e financiamento.
 - Prepara e-mails personalizados e acompanha respostas e candidaturas.
 
-## Primeiros passos
+## 🚀 Primeiros passos
 
 1. Escolha um modelo disponível na sua plataforma de IA.
 2. Copie o prompt completo para uma nova conversa ou projeto.
@@ -59,14 +59,14 @@ Documentação oficial: [ChatGPT Work e Codex](https://help.openai.com/en/articl
 
 A tarefa agendada entrega o relatório diário no horário; ative notificações push ou por e-mail do ChatGPT se quiser alertas. Mesmo sem novas respostas, o relatório deve mostrar progresso e prazos. Sem automação, inicie o trabalho manualmente.
 
-## Modelos e plataformas
+## ⚙️ Modelos e plataformas
 
 Use ChatGPT, Claude, Gemini, Kimi, DeepSeek ou outra ferramenta que aceite prompts longos. Recursos, limites e custos variam; sem automação ou envio de e-mail, as etapas correspondentes são manuais.
 
 Tradução assistida por IA, com verificação das regras essenciais. Em caso de divergência, consulte o original em chinês simplificado. Correções são bem-vindas.
 
 
-## Escopo e comunidade
+## 💬 Escopo e comunidade
 
 O projeto se concentra na pesquisa de orientadores e no contato inicial. Se a conversa avançar bem, o orientador poderá aconselhar sobre sua proposta e candidaturas posteriores, incluindo bolsas; o apoio depende da resposta dele. Se tiver dúvidas, participe do grupo WeChat para conversar com outros candidatos. Contato e acesso: [yifan@curatingmyatery.com](mailto:yifan@curatingmyatery.com).
 
@@ -76,12 +76,13 @@ O projeto se concentra na pesquisa de orientadores e no contato inicial. Se a co
 
 Se o código expirar, entre em contato pelo e-mail acima.
 
-## Agradecimentos
+## 🙏 Agradecimentos
 
 Agradecemos à OpenAI por suas ferramentas e tecnologia, às pessoas que contribuem com código, documentação, plugins e solução de problemas e à comunidade pelo retorno. 护谜（上海）智能科技有限公司 forneceu capacidade computacional para o desenvolvimento com Codex.
 
-Copyright © 2026 护谜（上海）智能科技有限公司
 
-## Licença
+## 📄 Licença
 
 [MIT License](../LICENSE) · Yi Fan
+
+<p align="center">Copyright © 2026 护谜（上海）智能科技有限公司</p>
