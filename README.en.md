@@ -95,7 +95,7 @@ If the code expires, contact us at the email above.
 
 ## 🙏 Acknowledgements
 
-Thanks to OpenAI for its tools and technology; to everyone contributing code, documentation, plugins and troubleshooting; and to community members sharing feedback and results. 护谜（上海）智能科技有限公司 contributed Codex development compute.
+Thanks to OpenAI for its tools and technology; to everyone contributing code, documentation, plugins and troubleshooting; and to community members sharing feedback and results. [护谜（上海）智能科技有限公司](https://github.com/curatingmysteryshanghai) contributed Codex development compute.
 
 
 ## 📄 License

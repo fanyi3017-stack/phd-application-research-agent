@@ -78,7 +78,7 @@ Falls der Code abläuft, kontaktieren Sie uns per E-Mail.
 
 ## 🙏 Danksagung
 
-Danke an OpenAI für Werkzeuge und Technologie, an alle Mitwirkenden bei Code, Dokumentation, Plugins und Problemlösung sowie an die Community für Rückmeldungen. 护谜（上海）智能科技有限公司 stellte Rechenleistung für die Entwicklung mit Codex bereit.
+Danke an OpenAI für Werkzeuge und Technologie, an alle Mitwirkenden bei Code, Dokumentation, Plugins und Problemlösung sowie an die Community für Rückmeldungen. [护谜（上海）智能科技有限公司](https://github.com/curatingmysteryshanghai) stellte Rechenleistung für die Entwicklung mit Codex bereit.
 
 
 ## 📄 Lizenz

@@ -78,7 +78,7 @@ Si el código caduca, escríbenos al correo indicado.
 
 ## 🙏 Agradecimientos
 
-Gracias a OpenAI por sus herramientas y tecnología, a quienes contribuyen código, documentación, plugins y solución de problemas, y a la comunidad por sus comentarios. 护谜（上海）智能科技有限公司 aportó capacidad de cómputo para el desarrollo con Codex.
+Gracias a OpenAI por sus herramientas y tecnología, a quienes contribuyen código, documentación, plugins y solución de problemas, y a la comunidad por sus comentarios. [护谜（上海）智能科技有限公司](https://github.com/curatingmysteryshanghai) aportó capacidad de cómputo para el desarrollo con Codex.
 
 
 ## 📄 Licencia
